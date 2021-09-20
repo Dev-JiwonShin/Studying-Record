@@ -654,23 +654,93 @@
 
 
 0918 : 
-	210918
+	
+	210918 Sat
 
-	기상 0500
-	출첵 0740
+	Wake up 				0500
+	Attendance Check     	0720
 
-	업무 4h
-		개발	1h
-		학교 3h
+	Work 					4h
+		Programming 			1h
+		School 					3h
+			W2. analysis poem		1h30 
+			W2. zoom meeting		1h30 
 
 
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+		
+    
 
 0919 : 
-	210919
+	
+	210919 Sun
 
-	기상 0700
-	출첵 0830
+	Wake up 				0700
+	Attendance Check     	0820
 
-	업무 h
-		개발	h
+	Self-development		0h30
+		workout					0h30
+
+	Work 					2h
+		Programming 			2h
+
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+		
+
+
+
+0920
+
+	210920 Mon
+
+	Wake up 				0700
+	Attendance Check     	1210
+
+	Self-development		1h
+		workout					1h
+
+	Work 					2h
+		Programming 			2h
+
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+
+SD = Self-development
+WU = Wake Up
+AC = Attendance Check 
+
+
+
+
+
+
+
+
+
+
+
+
 
