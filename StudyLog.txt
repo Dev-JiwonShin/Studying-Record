@@ -743,4 +743,24 @@ AC = Attendance Check
 
 
 
+0922
+	210922 Tue
 
+	Wake up 				0700
+	Attendance Check     	1510
+
+	Self-development		0h30
+		workout					0h30
+
+	Work 					h
+		School 					h
+			W2. analysis poem		h 
+			W2. zoom meeting		h
+
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
