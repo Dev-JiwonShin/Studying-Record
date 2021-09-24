@@ -780,6 +780,28 @@ AC = Attendance Check
 	Self-development		2h00
 		workout					2h00
 
+	Work 					3h
+		School 					3h
+			DLC. Lecture 		3h
+			
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+0924
+
+	210924	Fri
+
+	Wake up 				0800
+	Attendance Check     	1035
+
 	Work 					h
 		School 					h
 			
