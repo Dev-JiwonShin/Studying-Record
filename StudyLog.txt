@@ -812,3 +812,27 @@ AC = Attendance Check
 		SE. 	= Software Engineering
 		OS. 	= Operating System
 		FSSN. 	= Full-Stack Service Networking
+
+
+0925
+
+	210925 Sat
+
+	Wake up 				0900
+	Attendance Check     	1345
+
+
+	Work 					h
+		School 					h
+
+		Programming				h
+			
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
