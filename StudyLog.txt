@@ -840,3 +840,31 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking
 
 
+0926
+
+	210926 Sun
+
+	Wake up 				0530
+	Attendance Check     	0845
+
+
+	Self-development		1h00
+		workout					1h00
+			Jogging
+
+
+	Work 					h
+		School 					h
+		Programming				h
+
+
+			
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
