@@ -802,8 +802,9 @@ AC = Attendance Check
 	Wake up 				0800
 	Attendance Check     	1035
 
-	Work 					h
-		School 					h
+	Work 					6h
+		School 					6h
+			FSSN. Lecture + prep&review
 			
 --------------------------------------------
 	Lectures
@@ -816,16 +817,19 @@ AC = Attendance Check
 
 0925
 
+	It was a nice vacation ! 
+	From tmr, Hit the book !!
+	
 	210925 Sat
 
 	Wake up 				0900
 	Attendance Check     	1345
 
 
-	Work 					h
-		School 					h
+	Work 					3h
+		School 					3h
+			W2. write a presentation script for group work 		
 
-		Programming				h
 			
 --------------------------------------------
 	Lectures
