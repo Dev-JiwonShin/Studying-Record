@@ -853,9 +853,39 @@ AC = Attendance Check
 			Jogging
 
 
-	Work 					h
-		School 					h
-		Programming				h
+	Work 					9h
+		Programming				8h
+		Zoom. writing meeting	1h
+
+
+			
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+0927
+
+	210927 Mon
+
+	Wake up 			0500		
+	Attendance Check    1000
+
+
+	Self-development		4h
+		workout(Jogging)    		1h	
+		rebuile & repair keyboard 	3h	
+
+
+	Work 					7h
+		School 					4h
+		Zoom. Teamnova			3h
 
 
 			
