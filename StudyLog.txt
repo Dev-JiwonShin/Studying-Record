@@ -909,6 +909,34 @@ AC = Attendance Check
 	Attendance Check    0700
 
 
+	Self-development		2h30
+		Vietnamese				2h
+		walking					0h30
+
+	Work 					7h
+		School 					7h
+
+
+
+			
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+0929
+
+	210929	Wed
+
+	Wake up 			0630
+	Attendance Check    0900
+
+
 	Self-development		h
 
 
