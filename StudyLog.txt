@@ -915,7 +915,9 @@ AC = Attendance Check
 
 	Work 					7h
 		School 					7h
-
+			W2
+			DLC
+			OS
 
 
 			
@@ -934,17 +936,18 @@ AC = Attendance Check
 	210929	Wed
 
 	Wake up 			0630
-	Attendance Check    0900
+	Attendance check    0900
 
 
-	Self-development		h
-
-
-	Work 					h
-		School 					h
-
-
-
+	Self-development		1h30
+		Speaking practice (Vietnamese) 1h00
+		Listening practice (English) 	0h30
+	
+	Work 					8h
+		School 					8h
+			W2. Lecture + report 4h
+			DLC. Lecture + review 2h
+			OS. Lecture + review 2h
 			
 --------------------------------------------
 	Lectures
