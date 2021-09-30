@@ -962,25 +962,33 @@ AC = Attendance Check
 
 0930
 
-	210930 Thuj
+	210930 Thu
 
 	Wake up 			0630
 	Attendance check    1000
 
-
 	Self-development		2h00
-		Workout				2h00
-			run 3.5km
-			1min on / 1min off x 10 SET
-				total :	Toetobar	80rep
+		WOD.						2h00
+			run 	1.3km
+			(1min on / 1min off) x 10 SET
+				total :	Toe to bar	80rep
 						skierg		92cal
+			pull-up 6 5 5 5 4 3 reps
+			run 	1.3km
 
+	Work 					8h
+		School 					3h10
+			DLC. Lec. 				2h30
+			FSSN. Lec. 				0h40
+		
+		Programming				4h50
+			make & finish pomodoro sample
+			be making timer sample
 
-	Work 					h
-		School 					h
 
 --------------------------------------------
-	Lectures
+	WOD.	= Workout of the day
+	Lec.	= Lectures
 		W2. 	= Writing2
 		DLC. 	= Digital Logical Circuit
 		SE. 	= Software Engineering
