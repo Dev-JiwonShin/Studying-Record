@@ -948,7 +948,37 @@ AC = Attendance Check
 			W2. Lecture + report 4h
 			DLC. Lecture + review 2h
 			OS. Lecture + review 2h
-			
+
+--------------------------------------------
+	Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+0930
+
+	210930 Thuj
+
+	Wake up 			0630
+	Attendance check    1000
+
+
+	Self-development		2h00
+		Workout				2h00
+			run 3.5km
+			1min on / 1min off x 10 SET
+				total :	Toetobar	80rep
+						skierg		92cal
+
+
+	Work 					h
+		School 					h
+
 --------------------------------------------
 	Lectures
 		W2. 	= Writing2
