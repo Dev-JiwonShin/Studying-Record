@@ -1004,7 +1004,7 @@ AC = Attendance Check
 	211001 Fri
 
 	Wake up 			0645
-	Attendance check    10400
+	Attendance check    1040
 
 	Self-development		2h00
 		WOD.						2h00
@@ -1017,11 +1017,14 @@ AC = Attendance Check
 			pull-up 8 6 6 5 5 reps
 			run 	1.7km
 
-	Work 					h
+	Work 					8h
 		School 					
-			FSSN. Lec. 				
+			FSSN. Lec. 		3h
 		
-		Programming				
+		Programming			5h
+			Fix start & finish button in alarm
+			Implement scheduler with RecyclerView 	
+
 
 
 --------------------------------------------
