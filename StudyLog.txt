@@ -1007,23 +1007,51 @@ AC = Attendance Check
 	Attendance check    1040
 
 	Self-development		2h00
-		WOD.						2h00
-			run 	2km
-			Every 3:00 Clean&Jerk Ladder
+		WOD.					2h00
+			Run 	2km
+			Every 3:00 clean&jerk ladder
 				10 C&J 95lb
 				10 C&J 115lb
 				10 C&J 115lb
 				10 C&J 115lb
-			pull-up 8 6 6 5 5 reps
-			run 	1.7km
+			Pull-up 8 6 6 5 5 reps
+			Run 	1.7km
 
 	Work 					8h
-		School 					
-			FSSN. Lec. 		3h
+		School 					3h
+			FSSN. Lec. 			
 		
-		Programming			5h
+		Programming				5h
 			Fix start & finish button in alarm
 			Implement scheduler with RecyclerView 	
+
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+1002
+
+	211002	Sat
+
+	Wake up 			0645
+	Attendance check    0800
+
+	Work 					h
+		School 					h
+		
+		Programming				h
+
+
 
 
 
