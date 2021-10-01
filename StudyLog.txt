@@ -996,3 +996,41 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking
 
 
+
+
+
+1001
+
+	211001 Fri
+
+	Wake up 			0645
+	Attendance check    10400
+
+	Self-development		2h00
+		WOD.						2h00
+			run 	2km
+			Every 3:00 Clean&Jerk Ladder
+				10 C&J 95lb
+				10 C&J 115lb
+				10 C&J 115lb
+				10 C&J 115lb
+			pull-up 8 6 6 5 5 reps
+			run 	1.7km
+
+	Work 					h
+		School 					
+			FSSN. Lec. 				
+		
+		Programming				
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
