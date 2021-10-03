@@ -1069,9 +1069,10 @@ AC = Attendance Check
 	Wake up 			0645
 	Attendance check    0930
 
-	Work 					h
-		School 					h
-		Programming				h3
+	Work 					10h
+		Programming				10h
+			Connect scheduler Activity & Fragment
+			Fix bugs
 
 --------------------------------------------
 	WOD.	= Workout of the day
