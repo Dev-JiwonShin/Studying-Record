@@ -1044,16 +1044,34 @@ AC = Attendance Check
 	211002	Sat
 
 	Wake up 			0645
-	Attendance check    0800
+	Attendance check    0900
+
+	Work 					4h
+		Programming				4h
+			Analyze scheduler with RecyclerView 
+
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+1003
+
+	211003	Sun
+
+	Wake up 			0645
+	Attendance check    0930
 
 	Work 					h
 		School 					h
-		
-		Programming				h
-
-
-
-
+		Programming				h3
 
 --------------------------------------------
 	WOD.	= Workout of the day
