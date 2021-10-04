@@ -1069,13 +1069,54 @@ AC = Attendance Check
 	Wake up 			0645
 	Attendance check    0930
 
-	Work 					10h
-		Programming				10h
-			Connect scheduler Activity & Fragment
+	Work 					10h30
+		Programming				10h30
+			Connect scheduler activity & fragment
 			Fix bugs
 
 --------------------------------------------
 	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+1004
+
+	211004 Mon
+
+	Wake up 			0605
+	Attendance check    1010
+
+
+	Self-development		2h10
+		WOD.					2h10
+			Run 	1.7km
+
+			1) Split jerk 5set
+				1 Pause dip & drive (2sec pause in dip position)
+				1 Pause Split jerk (2 sec pause in dip position & receive position)
+				1 Split Jerk
+
+			2) Amrap. 10min
+				Rep. 1-2-3-4-5-6-7
+					Push Press (105lb)
+					BBJ. (24inch)
+
+			Rope climbing 1 round
+			Run 	1.7km
+
+	Work 					
+		Programming				
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Amrap.	= As many round as possible
+	Rep.	= Repetitions
+	BBJ.	= Burpee Box Jump
 	Lec.	= Lectures
 		W2. 	= Writing2
 		DLC. 	= Digital Logical Circuit
