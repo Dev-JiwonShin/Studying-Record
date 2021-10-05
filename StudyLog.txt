@@ -1094,7 +1094,7 @@ AC = Attendance Check
 
 	Self-development		2h10
 		WOD.					2h10
-			Run 	1.7km
+			Run 	2.1km
 
 			1) Split jerk 5set
 				1 Pause dip & drive (2sec pause in dip position)
@@ -1106,17 +1106,94 @@ AC = Attendance Check
 					Push Press (105lb)
 					BBJ. (24inch)
 
-			Rope climbing 1 round
-			Run 	1.7km
+			3) Rope climbing 1 round
 
-	Work 					
-		Programming				
+			Run 	2.1km
+
+	Work 					11h	
+		Programming				8h
+		TeamNova. PHP. Week2	3h			
 
 --------------------------------------------
 	WOD.	= Workout of the day
 	Amrap.	= As many round as possible
 	Rep.	= Repetitions
 	BBJ.	= Burpee Box Jump
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+1005
+
+	211005 Tue
+
+	Wake up 			0600 (Quality = bad)
+	Attendance check    1030
+
+	Self-development	2h
+		WOD.					
+			1. Run 	2.1km
+			2. Time cap	12min
+				20 	pull up (purple band)
+				100 air squat
+				20 	pull up (purple band)
+				100 cal Row
+			3. Run 	2.1km
+
+	Work 					
+		School			2h
+			DLC. Lec. 		2h
+		
+		Programming		7h
+			Fix many bugs
+			Prepare presentation
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		DLC. 	= Digital Logical Circuit
+		
+
+
+
+
+
+1006
+
+	211006 Wed
+
+	Wake up 			
+	Attendance check    
+
+
+	Self-development	2h
+		WOD.				2h	
+			1. Run 	2.1km
+						
+			2. 7 Set
+				1 clean lift off
+				1 pause clean (below knee) 
+				1 hang clean (above knee) 
+				1 jerk
+
+			3. 3 Set 
+				Clean deadLift
+				5 reps (90 % of Clean 1rm)
+				3 reps (100% of Clean 1rm)
+				1 reps (105~110% of Clean 1rm)
+
+			4. Run 	2.1km
+
+	Work 					
+		Programming				
+
+--------------------------------------------
+	WOD.	= Workout of the day
 	Lec.	= Lectures
 		W2. 	= Writing2
 		DLC. 	= Digital Logical Circuit
