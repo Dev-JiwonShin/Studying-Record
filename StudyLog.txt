@@ -1176,16 +1176,16 @@ AC = Attendance Check
 			1. Run 	2.1km
 						
 			2. 7 Set
-				1 clean lift off
-				1 pause clean (below knee) 
-				1 hang clean (above knee) 
+				1 clean lift off				lb
+				1 pause clean (below knee) 		lb
+				1 hang clean (above knee) 		lb
 				1 jerk
 
 			3. 3 Set 
-				Clean deadLift
-				5 reps (90 % of Clean 1rm)
-				3 reps (100% of Clean 1rm)
-				1 reps (105~110% of Clean 1rm)
+				Clean deadLift					lb
+				5 reps ( 90% of Clean 1rm)		lb
+				3 reps (100% of Clean 1rm)		lb
+				1 reps (110% of Clean 1rm)		lb
 
 			4. Run 	2.1km
 
