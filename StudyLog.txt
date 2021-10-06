@@ -1167,8 +1167,8 @@ AC = Attendance Check
 
 	211006 Wed
 
-	Wake up 			
-	Attendance check    
+	Wake up 				0630	
+	Attendance check    	1005
 
 
 	Self-development	2h
@@ -1176,18 +1176,47 @@ AC = Attendance Check
 			1. Run 	2.1km
 						
 			2. 7 Set
-				1 clean lift off				lb
-				1 pause clean (below knee) 		lb
-				1 hang clean (above knee) 		lb
-				1 jerk
+				1 clean lift off				145lb
+				1 pause clean (below knee) 		145lb
+				1 hang clean (above knee) 		145lb
+				1 jerk							145lb
 
 			3. 3 Set 
-				Clean deadLift					lb
-				5 reps ( 90% of Clean 1rm)		lb
-				3 reps (100% of Clean 1rm)		lb
-				1 reps (110% of Clean 1rm)		lb
+				Clean deadLift					
+					5 reps ( 90% of Clean 1rm)		125lb
+					3 reps (100% of Clean 1rm)		145lb
+					1 reps (110% of Clean 1rm)		195lb
 
 			4. Run 	2.1km
+
+	Work 				6h	
+		School				2h
+			DLC. Lec.				2h
+
+		Programming			4h
+			Presentate assignment	1h
+			Parse words & 
+			get into definition 	3h
+
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		DLC. 	= Digital Logical Circuit
+		
+
+
+
+
+
+1007
+
+	211007	Thu
+
+	Wake up 			0700		
+	Attendance check    0800
+
 
 	Work 					
 		Programming				
