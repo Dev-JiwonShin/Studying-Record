@@ -1191,7 +1191,7 @@ AC = Attendance Check
 
 	Work 				6h	
 		School				2h
-			DLC. Lec.				2h
+			W2. Lec.				2h
 
 		Programming			4h
 			Presentate assignment	1h
@@ -1217,9 +1217,11 @@ AC = Attendance Check
 	Wake up 			0700		
 	Attendance check    0800
 
-
 	Work 					
-		Programming				
+		DLC. Lec.		2h
+		Programming		9h
+			All func works
+
 
 --------------------------------------------
 	WOD.	= Workout of the day
