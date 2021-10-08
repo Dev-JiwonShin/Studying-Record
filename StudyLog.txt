@@ -1239,15 +1239,40 @@ AC = Attendance Check
 
 	211008 Fri
 
-	Wake up 			0430
+	Wake up 			0430 (Less than 5h)
 	Attendance check    0800
 
+	Self-development	2h
+		WOD.				2h	
+			1. Run 	2.1km + A-bike 20cal
+						
+			2. 5 RFT (7 mins)
+				12 WBS	16lb
+				8  KB swing 24lb
+
+			3. Squat 5x5
+				1 round : 110 lb
+				2 round : 130 lb
+				3 round : 150 lb
+				4 round : 180 lb
+				5 round : 195 lb
+			
+			4. Run 	2.1km
+
 	Work 			
-		Programming		h
+		school			3h
+			FSSN. Lec.
+
+		Programming		3h
+			
+
 
 
 --------------------------------------------
 	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	WBS.	= Wall ball shot
+	KB.		= Kettle-bell
 	Lec.	= Lectures
 		W2. 	= Writing2
 		DLC. 	= Digital Logical Circuit
