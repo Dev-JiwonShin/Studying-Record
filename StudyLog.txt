@@ -1292,7 +1292,32 @@ AC = Attendance Check
 	Attendance check    0800
 
 	Work 			
-		Programming		h
+		Programming		2h
+			
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+1010
+
+	211010 Sun
+
+	Wake up 			0800
+
+	Self-development	2h
+		DL, BP
+	
+	Work 				1h
+		Plan for mid-Term
 			
 
 --------------------------------------------
