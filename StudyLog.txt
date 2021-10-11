@@ -1353,9 +1353,51 @@ AC = Attendance Check
 
 			4. Run 	2.1km
 
+	Work 	8h
+		Programming		5h
+			Implement Add&Delete in recyclerView	4h
+			Presentate assignment 					1h
+
+		Zoom. Teamnova	3h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	WBS.	= Wall ball shot
+	KB.		= Kettle-bell
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+
+1012
+
+	211012	Tue
+
+	Wake up 			0630
+	Attendance-check	0700
+
+	Self-development	h
+		WOD.				h	
+			1. Run 	2.1km
+						
+			2. 	Team of 2
+				
+				40-30-20-10 
+					Push up
+					Row cal
+
+			3. Run 	2.1km
+
 	Work 			
 		school			h
-			과제검사
+		
 		Programming		h
 			
 
@@ -1373,3 +1415,42 @@ AC = Attendance Check
 		OS. 	= Operating System
 		FSSN. 	= Full-Stack Service Networking
 
+
+
+
+
+
+1013
+
+	211013	Wed
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	h
+		WOD.				h	
+			1. Run 	2.1km
+						
+			2. 	
+			
+			3. Run 	2.1km
+
+	Work 			
+		school			h
+		
+		Programming		h
+			
+
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	WBS.	= Wall ball shot
+	KB.		= Kettle-bell
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
