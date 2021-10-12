@@ -1383,25 +1383,23 @@ AC = Attendance Check
 	Wake up 			0630
 	Attendance-check	0700
 
-	Self-development	h
-		WOD.				h	
+	Self-development	2h
+		WOD.				2h	
 			1. Run 	2.1km
 						
-			2. 	Team of 2
-				
-				40-30-20-10 
-					Push up
-					Row cal
+			2. 	Time : 9'03"
+					40-30-20-10 
+						Push up
+						Row cal
 
 			3. Run 	2.1km
 
 	Work 			
-		school			h
-		
-		Programming		h
-			
-
-
+		School			1h
+				DLC. Lec
+		Programming		5h
+			Presentate assignment	1h
+			Be Implementing sharedPreference 4h			
 
 --------------------------------------------
 	WOD.	= Workout of the day
