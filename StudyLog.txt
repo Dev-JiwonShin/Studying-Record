@@ -1442,8 +1442,11 @@ AC = Attendance Check
 					105-105-105-105-105
 
 	Work 			
-		school			h
-		Programming		h
+		school			1h
+		Programming		8h
+			Presentate assignment	0h30
+			Be Implementing sharedPreference 7h30
+
 
 --------------------------------------------
 	WOD.	= Workout of the day
