@@ -1422,6 +1422,48 @@ AC = Attendance Check
 
 	211013	Wed
 
+	Wake up 			0600
+	Attendance-check	0930
+
+	Self-development	2h
+		WOD.				2h	
+						
+			1. 5 SET 
+				1~2 SET = PVC pipe
+				3 	SET = Empty Barbell
+				4~5 SET = light weight Barbell
+
+				1 Snatch Pause DL (1” , Below knee , Above knee , mid thigh , power position)
+				3 (Pause power snatch (2sec pause in receive position) + Direct in to 1 OHS)
+				3 Snatch Drop
+
+				
+			2. 3-3-3-3-3 Squat snatch 	(50%~85% of 1rm)
+					105-105-105-105-105
+
+	Work 			
+		school			h
+		Programming		h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	WBS.	= Wall ball shot
+	KB.		= Kettle-bell
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+1014
+
+	211014	Thu
+
 	Wake up 			
 	Attendance-check	
 
