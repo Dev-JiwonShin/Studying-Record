@@ -1470,6 +1470,27 @@ AC = Attendance Check
 	Wake up 			
 	Attendance-check	
 
+	Work 			
+		school			h
+
+--------------------------------------------
+	Lec.	= Lectures
+		W2. 	= Writing2						D-13
+		DLC. 	= Digital Logical Circuit		D-14
+		SE. 	= Software Engineering			D-21
+		OS. 	= Operating System				D-13
+		FSSN. 	= Full-Stack Service Networking	D-15
+
+
+
+
+1015
+
+	211015	Fri
+
+	Wake up 			
+	Attendance-check	
+
 	Self-development	h
 		WOD.				h	
 			1. Run 	2.1km
