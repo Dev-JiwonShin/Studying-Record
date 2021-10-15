@@ -1505,7 +1505,10 @@ AC = Attendance Check
 			3. Run 	2.1km
 
 	Work 			
-		school			h
+		school			5h
+			FSSN.Lec
+			OS. Lec 
+			OS. Quiz
 			
 
 --------------------------------------------
@@ -1523,6 +1526,36 @@ AC = Attendance Check
 1016
 
 	211016 Sat
+
+	Wake up 			0730 (bad quality)
+	Attendance-check	0830
+
+	Work 			
+		school			h
+		
+		Programming		h
+			
+
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	WBS.	= Wall ball shot
+	KB.		= Kettle-bell
+	Lec.	= Lectures
+		W2. 	= Writing2
+		DLC. 	= Digital Logical Circuit
+		SE. 	= Software Engineering
+		OS. 	= Operating System
+		FSSN. 	= Full-Stack Service Networking
+
+
+
+
+1017
+
+	211017 Sun
 
 	Wake up 			
 	Attendance-check	
