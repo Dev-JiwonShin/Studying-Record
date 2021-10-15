@@ -1467,11 +1467,12 @@ AC = Attendance Check
 
 	211014	Thu
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0500
+	Attendance-check	1000
 
 	Work 			
-		school			h
+		school			4h
+			DLC. Lec. review
 
 --------------------------------------------
 	Lec.	= Lectures
@@ -1487,6 +1488,41 @@ AC = Attendance Check
 1015
 
 	211015	Fri
+
+	Wake up 			0640 (bad)
+	Attendance-check	1100 
+
+	Self-development	2h
+		WOD.				2h	
+			1. Run 	2.1km
+			
+			2. 10 RFT
+				3 Thruster 105lbs
+				6 PU (strict, purple)
+				
+				10'10"
+
+			3. Run 	2.1km
+
+	Work 			
+		school			h
+			
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	Lec.	= Lectures
+		W2. 	= Writing2						D-12
+		DLC. 	= Digital Logical Circuit		D-13
+		SE. 	= Software Engineering			D-20
+		OS. 	= Operating System				D-12
+		FSSN. 	= Full-Stack Service Networking	D-14
+
+
+
+1016
+
+	211016 Sat
 
 	Wake up 			
 	Attendance-check	
