@@ -1493,16 +1493,13 @@ AC = Attendance Check
 	Attendance-check	1100 
 
 	Self-development	2h
-		WOD.				2h	
-			1. Run 	2.1km
-			
-			2. 10 RFT
+		WOD.				2h				
+			1. 10 RFT
 				3 Thruster 105lbs
 				6 PU (strict, purple)
 				
 				10'10"
 
-			3. Run 	2.1km
 
 	Work 			
 		school			5h
@@ -1552,12 +1549,10 @@ AC = Attendance Check
 
 	Wake up 		0830
 	Attendance-check	1200
-
+	
 	Work 			
-		school			h
-		
-		Programming		h
-			
+		school		5h
+			DLC. Lec
 --------------------------------------------
 	WOD.	= Workout of the day
 	RFT. 	= Rounds for time
@@ -1572,20 +1567,12 @@ AC = Attendance Check
 
 
 
-1017
+1018
 
-	211017 Sun
+	211018 Mon
 
-	Wake up 			
+	Wake up 						
 	Attendance-check	
-
-	Self-development	h
-		WOD.				h	
-			1. Run 	2.1km
-						
-			2. 	
-			
-			3. Run 	2.1km
 
 	Work 			
 		school			h
@@ -1601,3 +1588,26 @@ AC = Attendance Check
 		SE. 	= Software Engineering			D-17
 		OS. 	= Operating System				D-9
 		FSSN. 	= Full-Stack Service Networking	D-11
+
+
+1019
+
+	211019 Tue
+
+	Wake up 						
+	Attendance-check	
+
+	Work 			
+		school			h
+		
+		Programming		h
+			
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	Lec.	= Lectures
+		W2. 	= Writing2						D-8
+		DLC. 	= Digital Logical Circuit		D-9
+		SE. 	= Software Engineering			D-16
+		OS. 	= Operating System				D-8
+		FSSN. 	= Full-Stack Service Networking	D-10
