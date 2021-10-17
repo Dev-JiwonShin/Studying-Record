@@ -1531,24 +1531,43 @@ AC = Attendance Check
 	Attendance-check	0830
 
 	Work 			
-		school			h
-		
-		Programming		h
-			
-
-
+		school			4h
+			SE. Lec
 
 --------------------------------------------
 	WOD.	= Workout of the day
 	RFT. 	= Rounds for time
-	WBS.	= Wall ball shot
-	KB.		= Kettle-bell
 	Lec.	= Lectures
-		W2. 	= Writing2
-		DLC. 	= Digital Logical Circuit
-		SE. 	= Software Engineering
-		OS. 	= Operating System
-		FSSN. 	= Full-Stack Service Networking
+		W2. 	= Writing2						D-11
+		DLC. 	= Digital Logical Circuit		D-12
+		SE. 	= Software Engineering			D-19
+		OS. 	= Operating System				D-11
+		FSSN. 	= Full-Stack Service Networking	D-13
+
+
+
+1017
+
+	211017 Sun
+
+	Wake up 		0830
+	Attendance-check	1200
+
+	Work 			
+		school			h
+		
+		Programming		h
+			
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	Lec.	= Lectures
+		W2. 	= Writing2						D-10
+		DLC. 	= Digital Logical Circuit		D-11
+		SE. 	= Software Engineering			D-18
+		OS. 	= Operating System				D-10
+		FSSN. 	= Full-Stack Service Networking	D-12
+
 
 
 
@@ -1573,17 +1592,12 @@ AC = Attendance Check
 		
 		Programming		h
 			
-
-
-
 --------------------------------------------
 	WOD.	= Workout of the day
 	RFT. 	= Rounds for time
-	WBS.	= Wall ball shot
-	KB.		= Kettle-bell
 	Lec.	= Lectures
-		W2. 	= Writing2
-		DLC. 	= Digital Logical Circuit
-		SE. 	= Software Engineering
-		OS. 	= Operating System
-		FSSN. 	= Full-Stack Service Networking
+		W2. 	= Writing2						D-9
+		DLC. 	= Digital Logical Circuit		D-10
+		SE. 	= Software Engineering			D-17
+		OS. 	= Operating System				D-9
+		FSSN. 	= Full-Stack Service Networking	D-11
