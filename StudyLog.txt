@@ -1571,17 +1571,13 @@ AC = Attendance Check
 
 	211018 Mon
 
-	Wake up 						
-	Attendance-check	
+	Wake up 			0640				
+	Attendance-check	0800
 
 	Work 			
-		school			h
-		
-		Programming		h
-			
+		school			6h30
+			FSSN. Lec
 --------------------------------------------
-	WOD.	= Workout of the day
-	RFT. 	= Rounds for time
 	Lec.	= Lectures
 		W2. 	= Writing2						D-9
 		DLC. 	= Digital Logical Circuit		D-10
@@ -1590,18 +1586,36 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	D-11
 
 
+
+
+
 1019
 
 	211019 Tue
 
-	Wake up 						
-	Attendance-check	
+	Wake up 			0520 (7h)
+	Attendance-check	1100 
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+						
+			2.	Time cap 8min
+
+				3 BJO
+				3 BBJO
+				Buy out 100 DU
+
+				5R
+				3 Box step over
+				3 Burpee Box step over
+
+				150 SU
+
+			3. Run 	2.1km			
 
 	Work 			
 		school			h
-		
-		Programming		h
-			
 --------------------------------------------
 	WOD.	= Workout of the day
 	RFT. 	= Rounds for time
@@ -1611,3 +1625,43 @@ AC = Attendance Check
 		SE. 	= Software Engineering			D-16
 		OS. 	= Operating System				D-8
 		FSSN. 	= Full-Stack Service Networking	D-10
+
+
+
+
+
+1020
+
+	211020 Wed
+
+	Wake up 			
+	Attendance-check	 
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+
+			2.	Time cap 8min
+
+				Deadlift 4-8-12-16-20
+				Wall walk 2-4-6-8-10
+
+				rx 185/135
+				A 155/115
+				B 135/ 95
+				C 코치지시
+				Time cap 10min
+
+			3. Run 	2.1km			
+
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	RFT. 	= Rounds for time
+	Lec.	= Lectures
+		W2. 	= Writing2						D-7
+		DLC. 	= Digital Logical Circuit		D-8
+		SE. 	= Software Engineering			D-15
+		OS. 	= Operating System				D-7
+		FSSN. 	= Full-Stack Service Networking	D-9
