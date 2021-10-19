@@ -1597,22 +1597,13 @@ AC = Attendance Check
 	Attendance-check	1100 
 
 	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-						
-			2.	Time cap 8min
-
-				3 BJO
-				3 BBJO
-				Buy out 100 DU
-
+		WOD.				2h							
+			1.	Time cap 8min
+				Buy in 100 SU (heavy rope)
 				5R
-				3 Box step over
-				3 Burpee Box step over
-
-				150 SU
-
-			3. Run 	2.1km			
+					3 BJO
+					3 BBJO
+				Buy out 100 SU (heavy rope)
 
 	Work 			
 		school			h
