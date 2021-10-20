@@ -1606,7 +1606,8 @@ AC = Attendance Check
   				Buy out 100 SU (heavy rope)
 
 	Work 			
-		school			h
+		school			5h30
+			OS. Lec.
 --------------------------------------------
 	WOD.	= Workout of the day
 	RFT. 	= Rounds for time
