@@ -1,3 +1,38 @@
+Template
+
+
+
+------------------------------------------------------------------------------
+102
+
+	21102
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-
+		DLC. 	= Digital Logical Circuit		D-
+		SE. 	= Software Engineering			D-
+		OS. 	= Operating System				D-
+		FSSN. 	= Full-Stack Service Networking	D-
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
+
 1) 자바를 익히는 동시에 이거 진행하기!
 
 
@@ -1638,10 +1673,11 @@ AC = Attendance Check
 				Wall walk 2-4-6-8-10
 
 	Work 			
-		school			h
+		school			7h
+			DLC. Lec
+			OS.  Lec
 --------------------------------------------
 	WOD.	= Workout of the day
-	RFT. 	= Rounds for time
 	Lec.	= Lectures
 		W2. 	= Writing2						D-7
 		DLC. 	= Digital Logical Circuit		D-8
@@ -1656,20 +1692,49 @@ AC = Attendance Check
 
 	211021 Thu
 
-	Wake up 			
-	Attendance-check	 
+	Wake up 			0600
+	Attendance-check	1030
 
 	Self-development	2h
 		WOD.				2h				
-			1. 
+			
+			1. 5R (total 20min)
+				0:00 ~ 2:00 1:45 run
+				2:00 ~ 4:00 15 Sit up + 10 KU + 15 Sit up + Max KU
+
 	Work 			
 		school			h
 --------------------------------------------
 	WOD.	= Workout of the day
-	RFT. 	= Rounds for time
+	KU.		= Knee Up
 	Lec.	= Lectures
 		W2. 	= Writing2						D-6
 		DLC. 	= Digital Logical Circuit		D-7
 		SE. 	= Software Engineering			D-14
 		OS. 	= Operating System				D-6
 		FSSN. 	= Full-Stack Service Networking	D-8
+
+
+
+1022
+
+	211022 Fri
+
+	Wake up 						
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-5
+		DLC. 	= Digital Logical Circuit		D-6
+		SE. 	= Software Engineering			D-13
+		OS. 	= Operating System				D-5
+		FSSN. 	= Full-Stack Service Networking	D-7
+
+
