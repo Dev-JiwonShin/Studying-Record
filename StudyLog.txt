@@ -1703,7 +1703,8 @@ AC = Attendance Check
 				2:00 ~ 4:00 15 Sit up + 10 KU + 15 Sit up + Max KU
 
 	Work 			
-		school			h
+		school			8h
+			DLC, OS
 --------------------------------------------
 	WOD.	= Workout of the day
 	KU.		= Knee Up
@@ -1724,7 +1725,9 @@ AC = Attendance Check
 	Attendance-check	1000
 
 	Work 			
-		school			h
+		school			7h
+			FSSN. Lec.
+			OS. Lec.
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -1739,19 +1742,41 @@ AC = Attendance Check
 
 	211023 Sat
 
-	Wake up 			
-	Attendance-check	 
+	Wake up 			0600 (sleepbuds very good!!)
+	Attendance-check	0830
 	
 	Work 			
 		school			h
+
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
 		W2. 	= Writing2						D-4
 		DLC. 	= Digital Logical Circuit		D-5
-		SE. 	= Software Engineering			D-12
+		SE. 	= Software Engineering			D-11
 		OS. 	= Operating System				D-4
-		FSSN. 	= Full-Stack Service Networking	D-6
+		FSSN. 	= Full-Stack Service Networking	D-14
 
 
 
+1024
+
+	211024
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-3
+		DLC. 	= Digital Logical Circuit		D-4
+		SE. 	= Software Engineering			D-10
+		OS. 	= Operating System				D-3
+		FSSN. 	= Full-Stack Service Networking	D-13
