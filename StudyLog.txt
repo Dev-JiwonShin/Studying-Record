@@ -1771,7 +1771,8 @@ AC = Attendance Check
 			
 			
 	Work 			
-		school			h
+		school			8h
+			SE. OS. 
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -1803,4 +1804,26 @@ AC = Attendance Check
 		SE. 	= Software Engineering			D-9
 		OS. 	= Operating System				D-2
 		FSSN. 	= Full-Stack Service Networking	D-12
+
+1026
+
+	211026
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-1
+		DLC. 	= Digital Logical Circuit		D-2
+		SE. 	= Software Engineering			D-8
+		OS. 	= Operating System				D-1
+		FSSN. 	= Full-Stack Service Networking	D-11
 
