@@ -1786,8 +1786,9 @@ AC = Attendance Check
 	Wake up 			0230
 	Attendance-check	0330
 			
-	Work 			
-		school			h
+	Work 			10h15
+		school			10h15
+			OS. W2.
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
