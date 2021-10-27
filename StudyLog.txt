@@ -3,9 +3,9 @@ Template
 
 
 ------------------------------------------------------------------------------
-102
+103
 
-	21102
+	21103
 
 	Wake up 			
 	Attendance-check	
@@ -1836,7 +1836,9 @@ AC = Attendance Check
 			
 			
 	Work 			
-		school			h
+		school			10h
+			W2. OS. exam
+			SE. Lec
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -1846,12 +1848,15 @@ AC = Attendance Check
 		OS. 	= Operating System				Dday
 		FSSN. 	= Full-Stack Service Networking	D-10
 
+
+
+
 1028
 
 	211028 Thu
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0500			
+	Attendance-check	0725
 			
 	Work 			
 		school			h
@@ -1881,3 +1886,25 @@ AC = Attendance Check
 		SE. 	= Software Engineering			D-
 		OS. 	= Operating System				D-
 		FSSN. 	= Full-Stack Service Networking	D-
+
+
+
+1030
+
+	211030 Sat
+
+	Wake up 			
+	Attendance-check	
+
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-
+		DLC. 	= Digital Logical Circuit		D-
+		SE. 	= Software Engineering			D-
+		OS. 	= Operating System				D-
+		FSSN. 	= Full-Stack Service Networking	D-
+
