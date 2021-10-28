@@ -1828,8 +1828,8 @@ AC = Attendance Check
 
 	211027 Wed
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0500
+	Attendance-check	0725
 
 	Self-development	2h
 		WOD.				2h				
@@ -1855,11 +1855,13 @@ AC = Attendance Check
 
 	211028 Thu
 
-	Wake up 			0500			
-	Attendance-check	0725
+	Wake up 			0700			
+	Attendance-check	1000
 			
 	Work 			
-		school			h
+		school			10h
+			DLC. exam
+			SE. review
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -1873,8 +1875,8 @@ AC = Attendance Check
 
 	211029 Fri
 
-	Wake up 			0700
-	Attendance-check	1000
+	Wake up 			0640
+	Attendance-check	0825
 			
 	Work 			
 		school			h
@@ -1908,3 +1910,27 @@ AC = Attendance Check
 		OS. 	= Operating System				D-
 		FSSN. 	= Full-Stack Service Networking	D-
 
+
+
+
+1031
+
+	211031 Sun
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-
+		DLC. 	= Digital Logical Circuit		D-
+		SE. 	= Software Engineering			D-
+		OS. 	= Operating System				D-
+		FSSN. 	= Full-Stack Service Networking	D-
