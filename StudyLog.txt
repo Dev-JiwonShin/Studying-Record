@@ -3,9 +3,9 @@ Template
 
 
 ------------------------------------------------------------------------------
-103
+110
 
-	21103
+	21110
 
 	Wake up 			
 	Attendance-check	
@@ -1879,15 +1879,12 @@ AC = Attendance Check
 	Attendance-check	0825
 			
 	Work 			
-		school			h
+		school			10h
+		repair keyboard
 --------------------------------------------
-	WOD.	= Workout of the day
 	Lec.	= Lectures
-		W2. 	= Writing2						D-
-		DLC. 	= Digital Logical Circuit		D-
-		SE. 	= Software Engineering			D-
-		OS. 	= Operating System				D-
-		FSSN. 	= Full-Stack Service Networking	D-
+		SE. 	= Software Engineering			D-4
+		FSSN. 	= Full-Stack Service Networking	D-6
 
 
 
@@ -1895,20 +1892,18 @@ AC = Attendance Check
 
 	211030 Sat
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0545
+	Attendance-check	0700
 
+	Self-development	2h
+		WOD.				10h
+			MT. Halla
 			
-	Work 			
-		school			h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
-		W2. 	= Writing2						D-
-		DLC. 	= Digital Logical Circuit		D-
-		SE. 	= Software Engineering			D-
-		OS. 	= Operating System				D-
-		FSSN. 	= Full-Stack Service Networking	D-
+		SE. 	= Software Engineering			D-3
+		FSSN. 	= Full-Stack Service Networking	D-5
 
 
 
@@ -1916,6 +1911,38 @@ AC = Attendance Check
 1031
 
 	211031 Sun
+
+	Wake up 			0600			
+	Attendance-check		
+			
+	Work 			
+		school			7h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		SE. 	= Software Engineering			D-2
+		FSSN. 	= Full-Stack Service Networking	D-4
+
+
+
+1101
+
+	211101
+
+	Wake up 			0330
+	Attendance-check	0430
+
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		SE. 	= Software Engineering			D-1
+		FSSN. 	= Full-Stack Service Networking	D-3
+
+110
+
+	21110
 
 	Wake up 			
 	Attendance-check	
@@ -1934,3 +1961,8 @@ AC = Attendance Check
 		SE. 	= Software Engineering			D-
 		OS. 	= Operating System				D-
 		FSSN. 	= Full-Stack Service Networking	D-
+
+
+
+
+
