@@ -1927,7 +1927,7 @@ AC = Attendance Check
 
 1101
 
-	211101
+	211101 Mon
 
 	Wake up 			0330
 	Attendance-check	0430
@@ -1942,7 +1942,7 @@ AC = Attendance Check
 
 1102
 
-	211102
+	211102 Tue
 
 	Wake up 			0330
 	Attendance-check	0430
@@ -1961,7 +1961,28 @@ AC = Attendance Check
 
 1103
 
-	211103
+	211103 Wed
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			h
+--------------------------------------------
+	Lec.	= Lectures
+		FSSN. 	= Full-Stack Service Networking	D-
+
+  
+
+
+
+1104
+
+	211104 Thu
 
 	Wake up 			
 	Attendance-check	
