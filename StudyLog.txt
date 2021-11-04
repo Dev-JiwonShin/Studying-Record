@@ -1994,12 +1994,41 @@ AC = Attendance Check
 
 	211105 Fri
 
-	Wake up 			
-	Attendance-check				
+	Wake up 			070
+	Attendance-check	0820
 			
 	Work 			
 		school			h
 --------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-
+		DLC. 	= Digital Logical Circuit		D-
+		SE. 	= Software Engineering			D-
+		OS. 	= Operating System				D-
+		FSSN. 	= Full-Stack Service Networking	D-
+
+
+1106
+
+	211106 Sat
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						D-
+		DLC. 	= Digital Logical Circuit		D-
+		SE. 	= Software Engineering			D-
+		OS. 	= Operating System				D-
 		FSSN. 	= Full-Stack Service Networking	D-
 
 
