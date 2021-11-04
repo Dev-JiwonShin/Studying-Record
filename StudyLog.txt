@@ -1984,9 +1984,9 @@ AC = Attendance Check
 	Attendance-check	0600
 
 	Work 			
-		school			h
+		school			11h
 --------------------------------------------
-		FSSN. 	= Full-Stack Service Networking	D-
+		FSSN. 	= Full-Stack Service Networking	D-day
 
 
 
