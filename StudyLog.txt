@@ -1975,7 +1975,6 @@ AC = Attendance Check
   
 
 
-
 1104
 
 	211104 Thu
@@ -1994,9 +1993,40 @@ AC = Attendance Check
 
 	211105 Fri
 
-	Wake up 			070
+	Wake up 			0700
 	Attendance-check	0820
 			
+	Work 			
+		school			5h
+--------------------------------------------
+	
+
+
+
+1106
+
+	211106 Sat
+
+	Wake up 			0400
+	Attendance-check	0500	
+			
+			
+	Work 			
+		school			6h
+			W2. project
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2	
+
+
+1107
+
+	211107 Sun
+
+	Wake up 			0300
+	Attendance-check	0350
+
 	Work 			
 		school			h
 --------------------------------------------
@@ -2009,9 +2039,10 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	D-
 
 
-1106
 
-	211106 Sat
+1108
+
+	211108 Mon
 
 	Wake up 			
 	Attendance-check	
@@ -2030,5 +2061,6 @@ AC = Attendance Check
 		SE. 	= Software Engineering			D-
 		OS. 	= Operating System				D-
 		FSSN. 	= Full-Stack Service Networking	D-
+
 
 
