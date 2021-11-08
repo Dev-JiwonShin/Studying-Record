@@ -2028,7 +2028,24 @@ AC = Attendance Check
 	Attendance-check	0350
 
 	Work 			
-		school			h
+		school			10h
+			gRPC concept
+			keyboard info
+
+
+1108
+
+	211108 Mon
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			
+			
+	Work 			
+		school			4h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2040,9 +2057,9 @@ AC = Attendance Check
 
 
 
-1108
+1109
 
-	211108 Mon
+	211109 Tue
 
 	Wake up 			
 	Attendance-check	
