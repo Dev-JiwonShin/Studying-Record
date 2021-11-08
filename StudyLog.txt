@@ -3,9 +3,9 @@ Template
 
 
 ------------------------------------------------------------------------------
-110
+111
 
-	21110
+	21111
 
 	Wake up 			
 	Attendance-check	
@@ -19,13 +19,11 @@ Template
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
-		W2. 	= Writing2						D-
-		DLC. 	= Digital Logical Circuit		D-
-		SE. 	= Software Engineering			D-
-		OS. 	= Operating System				D-
-		FSSN. 	= Full-Stack Service Networking	D-
-
-
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
 
 
 
@@ -2061,11 +2059,54 @@ AC = Attendance Check
 
 	211109 Tue
 
+	Wake up 			0500
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			Team of 2 (each 3R)
+
+			50 Air Squat
+			500/400m Row
+
+			1:1 rotate
+
+			Scale) 코치지시
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+1110
+
+	211110
+
 	Wake up 			
 	Attendance-check	
 
 	Self-development	2h
 		WOD.				2h				
+		1. Warm up
+		3SET
+		1 Slow Clean pull + 1 Slow Clean High pull
+		+ 1 Slow pause power Clean (Pause 2 sec in receive position)
+		+ 1 pause Push Jerk (pause 2 sec in receive position)
+
+		* light weight
+
+		2. 1 Clean Pull + 1 Clean + 1 Push Jerk X 5SET
+
+		3. 3X3 Clean Pull ( 95~100% of 1RM Clean)
+
 			
 			
 	Work 			
@@ -2073,11 +2114,10 @@ AC = Attendance Check
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
-		W2. 	= Writing2						D-
-		DLC. 	= Digital Logical Circuit		D-
-		SE. 	= Software Engineering			D-
-		OS. 	= Operating System				D-
-		FSSN. 	= Full-Stack Service Networking	D-
-
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
 
 
