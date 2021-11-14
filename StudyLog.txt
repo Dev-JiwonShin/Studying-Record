@@ -2120,40 +2120,22 @@ AC = Attendance Check
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
 
-1111
+1111,12,13
 
-	211111
-
-	Wake up 			
-	Attendance-check	
-
-	Self-development	2h
-		WOD.				2h				
-			
-			
-	Work 			
-		school			h
---------------------------------------------
-	WOD.	= Workout of the day
-	Lec.	= Lectures
-		W2. 	= Writing2						
-		DLC. 	= Digital Logical Circuit		
-		SE. 	= Software Engineering			
-		OS. 	= Operating System				
-		FSSN. 	= Full-Stack Service Networking	
-  
+	211111,12,13
 
 
-1112
+	Vacation
 
-	211112
 
-	Wake up 			
-	Attendance-check	
 
-	Self-development	2h
-		WOD.				2h				
-			
+
+1114
+
+	211114
+
+	Wake up 			0700
+	Attendance-check	1645
 			
 	Work 			
 		school			h
@@ -2165,3 +2147,4 @@ AC = Attendance Check
 		SE. 	= Software Engineering			
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
+
