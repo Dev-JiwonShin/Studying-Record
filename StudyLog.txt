@@ -2122,20 +2122,27 @@ AC = Attendance Check
 
 1111,12,13
 
-	211111,12,13
+	211111,12,13,14
 
 
 	Vacation
 
 
+1115
 
+	211115
 
-1114
+	Wake up 			0730
+	Attendance-check	
 
-	211114
+	Self-development	2h
+		WOD.				2h				
+			Team of 2
+			21/16 cal Row
+			21 Thruster (95/65) Try unbroken
+			100 DU
 
-	Wake up 			0700
-	Attendance-check	1645
+			1:1 rotate each 3R
 			
 	Work 			
 		school			h
@@ -2147,4 +2154,3 @@ AC = Attendance Check
 		SE. 	= Software Engineering			
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
-
