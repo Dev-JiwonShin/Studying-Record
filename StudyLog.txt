@@ -2188,7 +2188,8 @@ AC = Attendance Check
 			3. Run 	2.1km			
 				
 	Work 			
-		school			h
+		school			9h
+			W2. Project, 초고 완성 (영어로뭐지?)
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
