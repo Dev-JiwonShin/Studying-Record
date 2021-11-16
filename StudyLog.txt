@@ -2133,17 +2133,60 @@ AC = Attendance Check
 	211115
 
 	Wake up 			0730
-	Attendance-check	
+	Attendance-check	1400
 
 	Self-development	2h
 		WOD.				2h				
-			Team of 2
-			21/16 cal Row
-			21 Thruster (95/65) Try unbroken
-			100 DU
+			1. Team of 2 (15'00")
+				21 cal Row
+				21 Thruster 75lb 
+				100 SU (heavy rope)
 
-			1:1 rotate each 3R
-			
+				1:1 rotate each 3R
+
+	Work 			6h
+		School			2h
+		Essay			4h
+			Title : Vaccine Pass Policy - Between Liberty and Responsibility
+--------------------------------------------
+	WOD.	= Workout of the day
+	SU.		= Single under
+
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+1116 
+
+	211116
+
+	Wake up 			0600 (bad)
+	Attendance-check	1030
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+	 		2. Team of 2
+				1) Core
+					20sec on / 10sec off
+					Alt V- up 3R
+					Alt Superman 3R
+					SIde Plank hold 4R (each side 2R)
+
+				2) For Time
+					70 Knee up
+
+					Every min 7 Burpee (Bar touch)
+
+					Time cap 10min
+
+			3. Run 	2.1km			
+				
 	Work 			
 		school			h
 --------------------------------------------
@@ -2154,3 +2197,4 @@ AC = Attendance Check
 		SE. 	= Software Engineering			
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
+
