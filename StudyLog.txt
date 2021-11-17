@@ -2189,7 +2189,42 @@ AC = Attendance Check
 				
 	Work 			
 		school			9h
-			W2. Project, 초고 완성 (영어로뭐지?)
+			W2. draft
+				Theme : The identity of modern people through the movie Batman <The Dark Knight> - Focusing on Friedrich Nietzsche's Thought
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+
+1117
+
+	211117
+
+	Wake up 			0400 + 3h (bad)
+	Attendance-check	1240
+
+	Self-development	2h
+		WOD.				2h				
+			1. Warm up 3SET
+				1 Muscle Snatch + 1 Tempo OHS
+				+ 1 pause Power snatch straight into OHS
+				+ 1 pause Squat snatch 
+
+			2. 5 Snatch High Pull x 3 SET  
+				95lb
+
+			3. 5SET 
+				1 Squat snatch + 1 Power snatch + 1 Squat snatch 
+				95 -> 65lb (Snatch Pose Practice)	
+	Work 			
+		school			h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
