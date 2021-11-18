@@ -2224,6 +2224,42 @@ AC = Attendance Check
 				1 Squat snatch + 1 Power snatch + 1 Squat snatch 
 				95 -> 65lb (Snatch Pose Practice)	
 	Work 			
+		school			9h
+			DLC. report
+			FSSN. grpc java test
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+1118
+
+	211118
+
+	Wake up 			0600
+	Attendance-check	1050
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+						
+			2. 	2min  ROW
+				1min Max Pull up
+				1min rest
+
+				*Countinue interval until 40 Pull up
+				*Time cap 5R
+
+			3. Run 	2.1km
+			
+	Work 			
 		school			h
 --------------------------------------------
 	WOD.	= Workout of the day
@@ -2233,4 +2269,5 @@ AC = Attendance Check
 		SE. 	= Software Engineering			
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
+
 
