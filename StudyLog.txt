@@ -3,17 +3,18 @@ Template
 
 
 ------------------------------------------------------------------------------
-111
+112
 
-	21111
+	21112
 
 	Wake up 			
 	Attendance-check	
 
 	Self-development	2h
 		WOD.				2h				
+			1. Run 	2.1km
 			
-			
+			3. Run 2.1km			
 	Work 			
 		school			h
 --------------------------------------------
@@ -2237,11 +2238,11 @@ AC = Attendance Check
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
 
-
+ 
 
 1118
 
-	211118
+	211118	Thu
 
 	Wake up 			0600
 	Attendance-check	1050
@@ -2259,6 +2260,59 @@ AC = Attendance Check
 
 			3. Run 	2.1km
 			
+	Work 			
+		school			9h	
+			FSSN. grpc-java build (jdk version & gradle)
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+1119
+
+	211119	Fri
+
+	Wake up 			0630
+	Attendance-check	1000
+
+	Self-development	2h
+		WOD.				2h				
+			1.Practice 
+				Split Jerk
+
+			2. 4R (Amrap 8min)
+				50 DU
+				5 Power clean 115lb
+
+			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+1120
+
+	211120 Sat
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
 	Work 			
 		school			h
 --------------------------------------------
