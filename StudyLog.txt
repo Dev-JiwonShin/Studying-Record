@@ -1,4 +1,4 @@
-aTemplate
+Template
 
 
 
@@ -2325,3 +2325,27 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	
 
 
+1122
+
+	211122		Mon
+
+	Wake up 				
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+			3. Run 2.1km			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+		
