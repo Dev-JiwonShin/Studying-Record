@@ -2306,23 +2306,8 @@ AC = Attendance Check
 
 1120
 
-	211120 Sat
-
-	Wake up 			
-	Attendance-check	
-
-	Self-development	2h
-		WOD.				2h				
-	Work 			
-		school			h
---------------------------------------------
-	WOD.	= Workout of the day
-	Lec.	= Lectures
-		W2. 	= Writing2						
-		DLC. 	= Digital Logical Circuit		
-		SE. 	= Software Engineering			
-		OS. 	= Operating System				
-		FSSN. 	= Full-Stack Service Networking	
+	211120, 211121 Sat, Sun
+		break (bad condition)
 
 
 1122
@@ -2332,9 +2317,25 @@ AC = Attendance Check
 	Wake up 				
 	Attendance-check	
 
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 2.1km
+			
+			2. 14'20"
+				50 air squat
+				50 push press (95lb)
+				50 air squat
+				
+				50 air squat
+				25 push press (75lb)
+				50 air squat
+
+			3. Run 2.1km
+
 	Work 			
-		school			4h
-			OS. Dead-Lock
+		school			3h
+		break (bad condition)
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2347,20 +2348,47 @@ AC = Attendance Check
 		
 
 
-1122
+1123
 
-	211122		Mon
+	211123		Tue
 
-	Wake up 				
-	Attendance-check	
+	Wake up 			1100
+	Attendance-check	1300
 
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			
-			3. Run 2.1km			
-	Work 			
-		school			h
+	Work 			4h
+		school			4h
+			OS. Dead-Lock 
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+		
+
+
+
+1124
+
+	211124		Wed
+
+	Wake up 			0530
+	Attendance-check	1000
+
+	Work 			4h
+		Assemble keyboard 3h
+		
+		Essay			1h
+			Title : Vaccine Pass Policy - Between Liberty and Responsibility
+		
+		School			h
+			OS. Dead-Lock 
+
+
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
