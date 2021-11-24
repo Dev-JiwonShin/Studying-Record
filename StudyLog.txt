@@ -2379,13 +2379,28 @@ AC = Attendance Check
 	Wake up 			0530
 	Attendance-check	1000
 
-	Work 			4h
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 2.1km
+			
+				
+			2. 1 Push Jerk + 1 Split Jerk x 5Set
+
+			3. 1 Squat Clean + 2 Hang SC x 2SET
+				1 Squat clean + 1 Hang clean x 3Set
+
+			+ 4. A-bike 10min
+			
+			5. Run 2.1km
+
+	Work 			8h
 		Assemble keyboard 3h
 		
 		Essay			1h
 			Title : Vaccine Pass Policy - Between Liberty and Responsibility
 		
-		School			h
+		School			4h
 			OS. Dead-Lock 
 
 
