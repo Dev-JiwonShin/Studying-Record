@@ -2466,19 +2466,12 @@ AC = Attendance Check
 		WOD.				2h				
 			1. Run 2.1km
 
-
-1:30 on/ 1:30 off x 5 Set
-
-12/10cal machine
-10 Deadlift (185/135)
-Max C2B
-
-기록 쓰는법
-15/12/6/8/3 체투바 갯수
-
-
+			2. 1:30 on/ 1:30 off x 5 Set
+				12cal machine
+				10 Deadlift 	125lb
+				C2B				2/1/1/0/0
 			
-			5. Run 2.1km
+			3. Run 2.1km
 
 	Work 			h		
 		School			h
