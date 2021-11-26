@@ -2458,8 +2458,8 @@ AC = Attendance Check
 
 	211126		Fri
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0600
+	Attendance-check	1020
 
 
 	Self-development	2h
@@ -2471,11 +2471,14 @@ AC = Attendance Check
 				10 Deadlift 	125lb
 				C2B				2/1/1/0/0
 			
+			+3. Press 70lb 3x10 (recovery)
+			
 			3. Run 2.1km
 
-	Work 			h		
-		School			h
-			OS. Dead-Lock 
+	Work 			9h		
+		School			9h
+			OS. Dead-Lock
+			FSSN. gRPC-java 
 
 
 --------------------------------------------
