@@ -2491,3 +2491,55 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	
 
 		
+
+
+
+1127
+
+	211127		Sat
+
+	Wake up 			0430
+	Attendance-check	0700
+
+	Work 			7h		
+		흑심조각, 청년교육프로그램참여 덕업일치
+		School			7h
+			FSSN. gRPC-java 
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+		
+
+
+
+
+1128
+
+	211127		
+
+	Wake up 			0430
+	Attendance-check	0700
+
+	Work 			9h		
+		School			9h
+			OS. Dead-Lock
+			FSSN. gRPC-java 
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+		
