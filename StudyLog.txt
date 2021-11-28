@@ -2502,10 +2502,8 @@ AC = Attendance Check
 	Attendance-check	0700
 
 	Work 			7h		
-		흑심조각, 청년교육프로그램참여 덕업일치
-		School			7h
-			FSSN. gRPC-java 
-
+		Seminar1		2h
+		Seminar2		5h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
