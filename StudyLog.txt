@@ -2522,10 +2522,10 @@ AC = Attendance Check
 
 1128
 
-	211127		
+	211128		Sun
 
-	Wake up 			0430
-	Attendance-check	0700
+	Wake up 			0700
+	Attendance-check	0800
 
 	Work 			9h		
 		School			9h
