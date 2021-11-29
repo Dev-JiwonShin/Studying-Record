@@ -2525,11 +2525,33 @@ AC = Attendance Check
 	Wake up 			0700
 	Attendance-check	0800
 
-	Work 			9h		
-		School			9h
-			OS. Dead-Lock
+	Work 			11h		
+		School			11h
 			FSSN. gRPC-java 
 
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+		
+
+
+
+1129
+
+	211129		Mon
+
+	Wake up 			0800 (bad,,)
+	Attendance-check	0945
+
+	Work 			h		
+		School			h
 
 --------------------------------------------
 	WOD.	= Workout of the day
