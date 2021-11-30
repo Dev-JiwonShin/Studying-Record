@@ -3,9 +3,9 @@ Template
 
 
 ------------------------------------------------------------------------------
-112
+120
 
-	21112
+	21120
 
 	Wake up 			
 	Attendance-check	
@@ -2529,7 +2529,6 @@ AC = Attendance Check
 		School			11h
 			FSSN. gRPC-java 
 
-
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2550,6 +2549,29 @@ AC = Attendance Check
 	Wake up 			0800 (bad,,)
 	Attendance-check	0945
 
+	Work 			10h		
+		School			10h
+			FSSN. grpc, zmq 
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+		
+
+
+
+1130
+
+	211130		Mon
+
+	Wake up 			0700 
+	Attendance-check	1030
+
 	Work 			h		
 		School			h
 
@@ -2563,3 +2585,29 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	
 
 		
+
+
+
+120
+
+	21120
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+			3. Run 2.1km			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
