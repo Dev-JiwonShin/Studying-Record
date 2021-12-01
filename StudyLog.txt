@@ -2572,8 +2572,9 @@ AC = Attendance Check
 	Wake up 			0700 
 	Attendance-check	1030
 
-	Work 			h		
-		School			h
+	Work 			10h		
+		School			10h
+						FSSN. gRPC-java 
 
 --------------------------------------------
 	WOD.	= Workout of the day
@@ -2588,12 +2589,12 @@ AC = Attendance Check
 
 
 
-120
+1201
 
-	21120
+	211201
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0700
+	Attendance-check	1030
 
 	Self-development	2h
 		WOD.				2h				
