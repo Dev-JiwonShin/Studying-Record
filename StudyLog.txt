@@ -2591,10 +2591,10 @@ AC = Attendance Check
 
 1201
 
-	211201
+	211201	Wed
 
 	Wake up 			0700
-	Attendance-check	1030
+	Attendance-check	1000
 
 	Self-development	2h
 		WOD.				2h				
@@ -2602,7 +2602,30 @@ AC = Attendance Check
 			
 			3. Run 2.1km			
 	Work 			
-		school			h
+		school			10h
+			FSSN. gRPC, ZMQ	& submit project
+--------------------------------------------
+	WOD.	= Workout of the day
+	W2. 	= Writing2						
+	DLC. 	= Digital Logical Circuit		
+	SE. 	= Software Engineering			
+	OS. 	= Operating System				
+	FSSN. 	= Full-Stack Service Networking	
+
+
+
+1202
+
+	211202	Thu
+
+	Wake up 			0700
+	Attendance-check	0800
+
+	Work 			h
+		School			h
+
+		Seminar bpa 
+
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
