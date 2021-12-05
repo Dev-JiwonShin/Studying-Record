@@ -2689,6 +2689,30 @@ AC = Attendance Check
 	Wake up 			0630
 	Attendance-check	0820
 
+	Work 			10h
+		School			10h
+			OS. review
+			SE. Testing, Evolving theory
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+
+1206
+
+	211206	Mon
+
+	Wake up 			0630
+	Attendance-check	0740
+
 	Work 			h
 		School			h
 			
@@ -2702,6 +2726,7 @@ AC = Attendance Check
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
 
-
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
+
+
