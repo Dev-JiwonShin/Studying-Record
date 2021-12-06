@@ -2713,6 +2713,40 @@ AC = Attendance Check
 	Wake up 			0630
 	Attendance-check	0740
 
+	Work 			11h
+		School			
+			Lec. W2.
+			SE. Testing, Evolution. Theory
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+	
+			
+
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+1207
+
+	211207	Tue
+
+	Wake up 			0630
+	Attendance-check	0740
+
 	Work 			h
 		School			h
 			
