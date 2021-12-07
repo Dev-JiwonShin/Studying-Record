@@ -2739,18 +2739,24 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	
 
 
-
 1207
 
-	211207	Tue
+	211207
 
-	Wake up 			0630
-	Attendance-check	0740
+	Wake up 			
+	Attendance-check	
 
-	Work 			h
-		School			h
-			
-
+	Self-development	2h
+		WOD.				2h				
+			1. Walk 2.1km
+			2.	20'00"
+				Team of 2,	1:1 each 4R
+					250m Run
+					8 T2B
+					8 Pull up
+			3. Walk 2.1km			
+	Work 			
+		school			h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2760,7 +2766,52 @@ AC = Attendance Check
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
 
+
+1208
+
+	211208
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+			3. Run 2.1km			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
 
 
+
+Team of 2
+1:1 each 4R
+18/15cal machine (로잉말고 다른 머신 우선!)
+10 T2B + 10 Pull up (RX+ Pull up -> C2B)
+
+* try unbroken
+
+Time cap 20min
+
+수요일
+
+6SET
+1 Power Clean + 1 Hang Clean + 1 Squat Clean + 1 Jerk
+
+1~2SET = 70% of CJ 1rm
+3~4SET = 75%
+5~6SET = 80%
+
+% 잘 지켜주세요!
