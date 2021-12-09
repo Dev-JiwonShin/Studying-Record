@@ -2746,8 +2746,8 @@ AC = Attendance Check
 					8 Pull up
 			3. Walk 2.1km			
 
-	Work 			11h
-		school			11h
+	Work 			10h
+		school			10h
 			SE. ch9, ch22, ch23
 --------------------------------------------
 	WOD.	= Workout of the day
@@ -2763,13 +2763,12 @@ AC = Attendance Check
 
 	211208	Wed
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0900
+	Attendance-check	0920
 
 	Self-development	2h
 		WOD.				2h				
-			1. Run 	2.1km
-			2.6SET
+			1.6SET 135lb
 				1 Power Clean
 				1 Hang Clean
 				1 Squat Clean
@@ -2778,7 +2777,60 @@ AC = Attendance Check
 				1~2SET = 70% of CJ 1rm
 				3~4SET = 75%
 				5~6SET = 80%
-				
+		
+	Work 			
+		school			11h
+			SE. fnl exam
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+
+
+1209
+
+	211209	Thu
+
+	Wake up 			0600
+	Attendance-check	1200
+
+	Self-development	2h
+		WOD.				2h				
+			1. OPEN21.1 (recovery version)
+				Single under 10-30-60-90-150-210
+				Box walk 1-3-6-9-15-21
+				Time cap 15min
+		
+	Work 			
+		school			11h
+			SE. fnl exam
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+1209
+
+	211209	Fri
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			2. Open gym
 			3. Run 2.1km			
 	Work 			
 		school			h
@@ -2790,7 +2842,6 @@ AC = Attendance Check
 		SE. 	= Software Engineering			
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
-
 
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
