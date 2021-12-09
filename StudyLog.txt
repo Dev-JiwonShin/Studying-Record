@@ -3,9 +3,9 @@ Template
 
 
 ------------------------------------------------------------------------------
-120
+121
 
-	21120
+	21121
 
 	Wake up 			
 	Attendance-check	
@@ -2809,7 +2809,7 @@ AC = Attendance Check
 		
 	Work 			
 		school			11h
-			SE. fnl exam
+			FSSN. fnl exam. Theory
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2820,12 +2820,12 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	
 
 
-1209
+1210
 
-	211209	Fri
+	211210	Fri
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0700
+	Attendance-check	0830
 
 	Self-development	2h
 		WOD.				2h				
