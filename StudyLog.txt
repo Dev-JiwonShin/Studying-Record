@@ -2833,7 +2833,8 @@ AC = Attendance Check
 			2. Open gym
 			3. Run 2.1km			
 	Work 			
-		school			h
+		school			6h
+			FSSN. fnl exam
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
