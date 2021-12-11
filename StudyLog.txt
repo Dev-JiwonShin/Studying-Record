@@ -16,7 +16,7 @@ Template
 			
 			3. Run 2.1km			
 	Work 			
-		school			h
+		School			h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2849,11 +2849,13 @@ AC = Attendance Check
 
 	211211 Sat
 
-	Wake up 			0600
-	Attendance-check	0710
+	Wake up 			0700
+	Attendance-check	0800
 
 	Work 			
-		school			h
+		School			5h
+			Planning
+			OS. theory 	
 	
 --------------------------------------------
 	WOD.	= Workout of the day
@@ -2863,6 +2865,56 @@ AC = Attendance Check
 		SE. 	= Software Engineering			
 		OS. 	= Operating System				
 		FSSN. 	= Full-Stack Service Networking	
+
+
+
+1212
+
+	211212 Sun
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+			3. Run 2.1km			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
+
+1213
+
+	211213 Mon
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+			3. Run 2.1km			
+	Work 			
+		school			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	Lec.	= Lectures
+		W2. 	= Writing2						
+		DLC. 	= Digital Logical Circuit		
+		SE. 	= Software Engineering			
+		OS. 	= Operating System				
+		FSSN. 	= Full-Stack Service Networking	
+
 
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
