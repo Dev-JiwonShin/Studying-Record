@@ -2872,16 +2872,11 @@ AC = Attendance Check
 
 	211212 Sun
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0700	
+	Attendance-check	1000
 
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			
-			3. Run 2.1km			
-	Work 			
-		school			h
+	Work 			2h
+		Galaxy supporters 2h
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2903,7 +2898,14 @@ AC = Attendance Check
 		WOD.				2h				
 			1. Run 	2.1km
 			
-			3. Run 2.1km			
+			2. Front Squat 5x5 175lb
+			
+			3. 6'55" (Time cap 7min)
+			   21-15-9 
+				Front Squat 115lb
+				T2B
+			
+			4. Run 2.1km			
 	Work 			
 		school			h
 --------------------------------------------
@@ -2920,3 +2922,11 @@ http://gigglehd.com/zbxe/1918166
 이거 하고 자기
 
 
+화요일
+Team of 2 
+Amrap 20min
+5 Burpee
+5 Boxjump
+25 DU
+2R rotate
+scale) 40 SU,step up , team of 3,1R rotate
