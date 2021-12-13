@@ -2891,8 +2891,8 @@ AC = Attendance Check
 
 	211213 Mon
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0600
+	Attendance-check	1000
 
 	Self-development	2h
 		WOD.				2h				
@@ -2907,7 +2907,8 @@ AC = Attendance Check
 			
 			4. Run 2.1km			
 	Work 			
-		school			h
+		school			7h
+			OS. mmr theory
 --------------------------------------------
 	WOD.	= Workout of the day
 	Lec.	= Lectures
@@ -2918,15 +2919,30 @@ AC = Attendance Check
 		FSSN. 	= Full-Stack Service Networking	
 
 
+
+
+
+
+1214
+
+	211214
+
+	Wake up 			0600
+	Attendance-check	0800
+
+	Work 			
+		school			h
+			OS.
+--------------------------------------------
+	WOD.	= Workout of the day
+	DLC. 	= Digital Logical Circuit		
+	OS. 	= Operating System				
+		
+
+
+
+
+
+
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
-
-
-화요일
-Team of 2 
-Amrap 20min
-5 Burpee
-5 Boxjump
-25 DU
-2R rotate
-scale) 40 SU,step up , team of 3,1R rotate
