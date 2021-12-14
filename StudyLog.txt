@@ -2944,8 +2944,8 @@ AC = Attendance Check
 
 	211215 Wed
 
-	Wake up 			0
-	Attendance-check	0
+	Wake up 			0445
+	Attendance-check	0530
 
 	Work 			
 		school			h
