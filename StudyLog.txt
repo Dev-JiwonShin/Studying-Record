@@ -2925,10 +2925,27 @@ AC = Attendance Check
 
 1214
 
-	211214
+	211214 Tue
 
 	Wake up 			0600
 	Attendance-check	0800
+
+	Work 			
+		school			10h
+			OS. theory
+--------------------------------------------
+	WOD.	= Workout of the day
+	DLC. 	= Digital Logical Circuit		
+	OS. 	= Operating System				
+		
+
+
+1215
+
+	211215 Wed
+
+	Wake up 			0
+	Attendance-check	0
 
 	Work 			
 		school			h
