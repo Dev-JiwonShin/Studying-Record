@@ -2948,8 +2948,9 @@ AC = Attendance Check
 	Attendance-check	0530
 
 	Work 			
-		school			h
-			OS.
+		school			13h
+			OS. theory, Exam
+			Planning graduation
 --------------------------------------------
 	WOD.	= Workout of the day
 	DLC. 	= Digital Logical Circuit		
