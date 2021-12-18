@@ -3002,16 +3002,17 @@ AC = Attendance Check
 
 
 
-1217
+1218
 
-	211217 Fri
+	211218 Sat
 
 	Wake up 			0630
 	Attendance-check	0920
 
-	Work 			h
-		School			 4h
+	Work 			7h
+		School			 7h
 			DLC. theory
+			Planning
 --------------------------------------------
 	WOD.	= Workout of the day
 	DLC. 	= Digital Logical Circuit		
