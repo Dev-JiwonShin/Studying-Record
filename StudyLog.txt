@@ -2987,9 +2987,31 @@ AC = Attendance Check
 	Wake up 			0630
 	Attendance-check	0920
 
-	Work 			
-		school			h
-			
+	Self-development	2h	
+		snatch, clean&jerk
+
+	Work 			6h
+		Keyboard setting 2h
+		School			 4h
+			DLC. theory
+--------------------------------------------
+	WOD.	= Workout of the day
+	DLC. 	= Digital Logical Circuit		
+
+
+
+
+
+1217
+
+	211217 Fri
+
+	Wake up 			0630
+	Attendance-check	0920
+
+	Work 			h
+		School			 4h
+			DLC. theory
 --------------------------------------------
 	WOD.	= Workout of the day
 	DLC. 	= Digital Logical Circuit		
