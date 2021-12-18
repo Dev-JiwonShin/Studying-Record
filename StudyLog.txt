@@ -3021,6 +3021,25 @@ AC = Attendance Check
 
 
 
+1219
+
+	211219
+
+	Wake up 			0600
+	Attendance-check	0720
+
+	Work 			h
+		School			 h
+			DLC. theory
+			Planning
+--------------------------------------------
+	WOD.	= Workout of the day
+	DLC. 	= Digital Logical Circuit		
+		
+
+
+
+
 
 
 http://gigglehd.com/zbxe/1918166
