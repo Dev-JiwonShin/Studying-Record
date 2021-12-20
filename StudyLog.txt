@@ -3,9 +3,9 @@ Template
 
 
 ------------------------------------------------------------------------------
-121
+122
 
-	21121
+	21122
 
 	Wake up 			
 	Attendance-check	
@@ -3023,15 +3023,15 @@ AC = Attendance Check
 
 1219
 
-	211219
+	211219 Sun
 
 	Wake up 			0600
 	Attendance-check	0720
 
-	Work 			h
-		School			 h
+	Work 			10h
+		Writing. teamnova 1h
+		School		      9h
 			DLC. theory
-			Planning
 --------------------------------------------
 	WOD.	= Workout of the day
 	DLC. 	= Digital Logical Circuit		
@@ -3040,7 +3040,93 @@ AC = Attendance Check
 
 
 
+1220
 
+	211220 Mon
+
+	Wake up 			0900
+	Attendance-check	1200
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			2. Amrap 20min - 6set
+				Eco-bike 15cal
+				40 DU		
+			3. Run 2.1km			
+
+	Work 			9h
+		School		      9h
+			DLC. theory		9
+--------------------------------------------
+m	WOD.	= Workout of the day
+	DLC. 	= Digital Logical Circuit		
+
+
+
+
+1221
+
+	211221 Tue
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			2.
+				5R For Time
+				10/7 Cal row
+				10 BJO
+				10 HSPU
+			3. Run 2.1km			
+
+	Work 			h
+		School		      h
+			
+--------------------------------------------
+	WOD.	= Workout of the day
+	DLC. 	= Digital Logical Circuit		
+
+
+
+수요일
+
+1. 5 SET
+	1 Clean Pull + 1 SQ Clean
+	1~2 SET 80%
+	3~5 SET 85%
+2. For Time
+	75 T2B
+	Every 3:00 3 SQ clean 185/125
+	time cap 9min
+	
+	A. 65 T2B
+	B. 50 T2B
+	C. For Time
+
+    4R
+     3 SQ Clean 
+     15 knee up
+ 
+목요일
+
+Team of 2
+50 FS (95/65)
+15 Syncro lateral Burpee 
+50 Push Press 
+15 Syncro lateral Burpee
+50 Thruster 
+15 Syncro lateral Burpee
+ 
+time cap 12min
+ 
+
+금요일
+
+크리스마스 이브 오픈짐으로 운영됩니다 ! 
+7:00-21:00
 
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
