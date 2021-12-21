@@ -3069,8 +3069,8 @@ m	WOD.	= Workout of the day
 
 	211221 Tue
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0600
+	Attendance-check	0630
 
 	Self-development	2h
 		WOD.				2h				
