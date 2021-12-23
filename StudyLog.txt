@@ -19,13 +19,6 @@ Template
 		School			h
 --------------------------------------------
 	WOD.	= Workout of the day
-	Lec.	= Lectures
-		W2. 	= Writing2						
-		DLC. 	= Digital Logical Circuit		
-		SE. 	= Software Engineering			
-		OS. 	= Operating System				
-		FSSN. 	= Full-Stack Service Networking	
-
 
 
 
@@ -3059,7 +3052,7 @@ AC = Attendance Check
 		School		      9h
 			DLC. theory		9
 --------------------------------------------
-m	WOD.	= Workout of the day
+	WOD.	= Workout of the day
 	DLC. 	= Digital Logical Circuit		
 
 
@@ -3075,58 +3068,83 @@ m	WOD.	= Workout of the day
 	Self-development	2h
 		WOD.				2h				
 			1. Run 	2.1km
-			2.
-				5R For Time
-				10/7 Cal row
-				10 BJO
-				10 HSPU
-			3. Run 2.1km			
+			2. Strength trainning
+				Deadlift 5x5 200lb
+				Squat	5x5 185lb
+			3. Run
 
-	Work 			h
-		School		      h
-			
+	Work 			8h
+		School		      8h
+			DLC. FNLexam 8h
 --------------------------------------------
 	WOD.	= Workout of the day
 	DLC. 	= Digital Logical Circuit		
 
 
 
-수요일
+1222
 
-1. 5 SET
-	1 Clean Pull + 1 SQ Clean
-	1~2 SET 80%
-	3~5 SET 85%
-2. For Time
-	75 T2B
-	Every 3:00 3 SQ clean 185/125
-	time cap 9min
+	211222 Wed
+
+	Wake up 			1000
+	Attendance-check	1700
+
+	Self-development	1h
+		WOD.				1h				
+			1. walk 2km		
+			2. walk 2km			
 	
-	A. 65 T2B
-	B. 50 T2B
-	C. For Time
+	Work 			4h
+		Seminar BPA. 
+		
+--------------------------------------------
+	WOD.	= Workout of the day
+ 	BPA.	= Black Pencil Apart
 
-    4R
-     3 SQ Clean 
-     15 knee up
- 
-목요일
 
-Team of 2
-50 FS (95/65)
-15 Syncro lateral Burpee 
-50 Push Press 
-15 Syncro lateral Burpee
-50 Thruster 
-15 Syncro lateral Burpee
- 
-time cap 12min
- 
+1223
 
-금요일
+	211223 Thu
 
-크리스마스 이브 오픈짐으로 운영됩니다 ! 
-7:00-21:00
+	Wake up 			0900
+	Attendance-check	1500
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			2. Team of 2 (10'30")
+				50 FS 		65lb
+				15 SLB
+				50 Push Press 65lb
+				15 SLB
+				50 Thruster 65lb
+				15 SLB
+			3. Run 2.1km			
+	
+	Work 			
+		School			h
+--------------------------------------------
+	WOD.	= Workout of the day
+	SLB.	= Syncro lateral Burpee 
+
+
+
+1224
+
+	211224
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+			3. Run 2.1km			
+	Work 			
+		School			h
+--------------------------------------------
+	WOD.	= Workout of the day
 
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
