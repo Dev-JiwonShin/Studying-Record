@@ -3138,12 +3138,10 @@ AC = Attendance Check
 	Attendance-check	
 
 	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			
-			3. Run 2.1km			
+		book
+
 	Work 			
-		School			h
+		School			4h
 --------------------------------------------
 	WOD.	= Workout of the day
 
