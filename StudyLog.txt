@@ -3132,24 +3132,37 @@ AC = Attendance Check
 
 1224
 
-	211224
+	211224 Fri
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0900
+	Attendance-check	1000
 
 	Self-development	2h
-		book
+		Book. Cosmos - Carl Sagan
 
-	Work 			
+	Work 			4h
 		School			4h
---------------------------------------------
-	WOD.	= Workout of the day
+			Network. basic theory + Socket Review
 
 
 
 1225
 
 	211225 Sat
+
+	Wake up 			1000
+	Attendance-check	1400
+
+	Work 			
+		Network & Blogging	7h
+			Gradle, Socket
+
+
+
+
+1226
+
+	211226 Sun
 
 	Wake up 			
 	Attendance-check	
@@ -3163,6 +3176,9 @@ AC = Attendance Check
 		School			h
 --------------------------------------------
 	WOD.	= Workout of the day
+
+
+
 
 http://gigglehd.com/zbxe/1918166
 이거 하고 자기
