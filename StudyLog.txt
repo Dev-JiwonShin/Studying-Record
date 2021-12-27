@@ -1,3 +1,143 @@
+
+
+
+1228 
+
+	211228 Tue
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			2. For Time
+				3000/2400M Row
+				300 DU
+
+				SU = 500reps
+				Scale Team of 2
+				선발 머신끝나자마자 바로 들어갑니다!
+
+			
+			3. Run 2.1km			
+	Work 			h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+1229
+
+	211229 Wed
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			수요일
+
+Warm up
+
+3SET
+
+3 Position Power snatch + 3 position squat snatch
+
+(High hang , hang , ground)
+
+*Empty bar
+
+Snatch complex
+
+1 SNATCH DEADLIFT + 1 Snatch + 1 Hang snatch + 1 OHS
+
+Up to heavy
+
+오버헤드스쾃 안되시면 생략!
+남성분들은 드랍매트 사용하기
+초보분들은 낮은 무게로 자세연습하기
+
+
+			3. Run 2.1km			
+
+	Work 			h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+1230
+
+	211230 Thu
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			목요일
+
+Emom 20min
+Odd 15/12cal machine
+Even 1R cindy
+
+1R cindy 
+= 5 Pull up + 10 Push up + 15 squat
+
+Rx+ with vest
+A 4/8/12 ,band ok ,knee push up
+B 10-14min 
+
+Each Round Time cap 50sec
+
+
+			3. Run 2.1km			
+	Work 			h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+1231
+
+	211231 Fri
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+금요일
+
+10-8-6-4-2
+Deadlift (225/155)
+P.HSPU
+
+Time cap 10min
+
+핸푸는 평소보다 어렵게 진행
+데드 무게 코치와 상의 후 선정
+
+			
+			3. Run 2.1km			
+	Work 			h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+
+
+
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
 Template
 
 
@@ -3164,20 +3304,41 @@ AC = Attendance Check
 
 	211226 Sun
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0330
+	Attendance-check	0500
+
+	Work 			
+		Network			10h
+			Socket, ZMQ + blogging
+
+
+
+
+
+1227
+
+	211227 Mon
+
+	Wake up 			0700
+	Attendance-check	0900
 
 	Self-development	2h
 		WOD.				2h				
 			1. Run 	2.1km
-			
+			2. Amrap 10min
+				12 DB hang snatch(6+6)
+				14 T2B 
+				16 Alt DB Box step up
+
+				Rx 22.5/15kg
+				Target 5R 
+
 			3. Run 2.1km			
-	Work 			
-		School			h
+	
+	Work 			h
+	
 --------------------------------------------
 	WOD.	= Workout of the day
-
-
 
 
 http://gigglehd.com/zbxe/1918166
