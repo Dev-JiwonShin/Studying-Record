@@ -1,6 +1,3 @@
-
-
-
 1229
 
 	211229 Wed
@@ -11,28 +8,19 @@
 	Self-development	2h
 		WOD.				2h				
 			1. Run 	2.1km
-			수요일
 
-Warm up
+			Warm up	3SET
+			3 Position Power snatch + 3 position squat snatch
+			(High hang , hang , ground)
+			*Empty bar
 
-3SET
+			Snatch complex
+			1 SNATCH DEADLIFT + 1 Snatch + 1 Hang snatch + 1 OHS
+			Up to heavy
 
-3 Position Power snatch + 3 position squat snatch
-
-(High hang , hang , ground)
-
-*Empty bar
-
-Snatch complex
-
-1 SNATCH DEADLIFT + 1 Snatch + 1 Hang snatch + 1 OHS
-
-Up to heavy
-
-오버헤드스쾃 안되시면 생략!
-남성분들은 드랍매트 사용하기
-초보분들은 낮은 무게로 자세연습하기
-
+			오버헤드스쾃 안되시면 생략!
+			남성분들은 드랍매트 사용하기
+			초보분들은 낮은 무게로 자세연습하기
 
 			3. Run 2.1km			
 
@@ -54,18 +42,18 @@ Up to heavy
 			1. Run 	2.1km
 			목요일
 
-Emom 20min
-Odd 15/12cal machine
-Even 1R cindy
+			Emom 20min
+			Odd 15/12cal machine
+			Even 1R cindy
 
-1R cindy 
-= 5 Pull up + 10 Push up + 15 squat
+			1R cindy 
+			= 5 Pull up + 10 Push up + 15 squat
 
-Rx+ with vest
-A 4/8/12 ,band ok ,knee push up
-B 10-14min 
+			Rx+ with vest
+			A 4/8/12 ,band ok ,knee push up
+			B 10-14min 
 
-Each Round Time cap 50sec
+			Each Round Time cap 50sec
 
 
 			3. Run 2.1km			
@@ -85,18 +73,18 @@ Each Round Time cap 50sec
 	Self-development	2h
 		WOD.				2h				
 			1. Run 	2.1km
-금요일
-
-10-8-6-4-2
-Deadlift (225/155)
-P.HSPU
-
-Time cap 10min
-
-핸푸는 평소보다 어렵게 진행
-데드 무게 코치와 상의 후 선정
-
 			
+
+			10-8-6-4-2
+			Deadlift (225/155)
+			P.HSPU
+
+			Time cap 10min
+
+			핸푸는 평소보다 어렵게 진행
+			데드 무게 코치와 상의 후 선정
+
+				
 			3. Run 2.1km			
 	Work 			h
 
@@ -105,6 +93,39 @@ Time cap 10min
 
 
 
+0101
+	
+	220101 Sat
+
+	Wake up
+	Attendance-check
+
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			3. Run 	2.1km
+	
+	Work 			h
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+0102
+	
+	220102 Sun
+
+	Wake up 	
+	Attendance-check
+
+
+	Self-development	2h
+		
+	Work 			h
+
+--------------------------------------------
+	
 
 
 
@@ -117,22 +138,25 @@ Template
 
 
 ------------------------------------------------------------------------------
-122
 
-	21122
+010
+	
+	22010
 
-	Wake up 			
-	Attendance-check	
+	Wake up 	
+	Attendance-check
+
 
 	Self-development	2h
 		WOD.				2h				
 			1. Run 	2.1km
-			
-			3. Run 2.1km			
-	Work 			
-		School			h
+			3. Run 	2.1km
+	
+	Work 			h
+
 --------------------------------------------
 	WOD.	= Workout of the day
+
 
 
 
@@ -212,6 +236,7 @@ Template
 
 0716 : 아나,, 커밋을 못했네 ㅋㅋㅋ 천원 ㅠㅠ 아까워,,
 		도형 그리기 피드백 받은 후, 최종 수정 완료! 이제 과제 검사만 받으면 될듯!
+
 0717 : 공부, 진나랑 화해 모두 좋았다~
 
 0718 : 클래스 만들기 과제 진행하자!! 
@@ -320,18 +345,14 @@ Template
 
 0808 : 
 	오늘 그나마 컨디션 나은듯. 
-	근데 내가 이렇게 무기력한 상태인게, 항우울제 떄문인지 확인도 필요할 듯.
-	운동으로 인한 근신경계 피로도 맞겠지만, 항우울제 부작용 중 졸음 유발도 한 몫 하는듯.
 	야간에 먹어보자!
 
 0809 :
 	컨디션 굿!!!!
-	슬하 : 설트랄린이 졸음 유발할 수 있다. 그리고 내가 너무 예민하게 신체 리듬에 집중해서 더 피곤하게 느끼고, 더 심장 떨리게 느끼고 그럴 수 있다. 
 	오늘 컨디션 좋으니 열공 해보자아!!!
 
 0810 : 
 	컨디션 굿!!
-	설트랄린 밤에 먹기
 	오늘 한 일 : 집청소, 청바지 빨래, 영양제 정리, 
 
 0811 :
@@ -355,7 +376,7 @@ Template
 	
 0815 : 
 	운동 쉬는 날
-	급체 + 인데놀 저혈압? -> 배아픔 + 머리 띵
+	급체 + 저혈압? -> 배아픔 + 머리 띵
 	새 책상 만족도 매우 높음 -> 서서 공부하는 그런 자유도가 매우 좋음!
 
 0816 :
@@ -389,7 +410,6 @@ Template
 
 0818 : 
 	컨디션 굿~
-	아빠가 비타민 던져서 좀 짜증남. 근데 그러려니. 먹기 싫다고 하긴 했었으니. 그래도 웃기는 사람이다. 
 	집안일을 너무 열심히 했다. 다용도실 정리 퍼펙으로 하고, 집 청소 하고! 잘했어~~ 신경쓰이는 것들 줄였네.
 	책도 잘 읽었다.
 	내일도 "의도적으로 불편하게" 근무하자!
@@ -426,6 +446,7 @@ Template
 			 2) 운동을 제대로 못하고 집에 옴
 			 	-> 데드리프트 하다가 과호흡 
 	저녁 운동 다시 갔음~ 뿌듯은 하나 공부량 부족!
+
 
 
 0821  :
