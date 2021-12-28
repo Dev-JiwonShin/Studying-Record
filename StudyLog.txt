@@ -1,32 +1,6 @@
 
 
 
-1228 
-
-	211228 Tue
-
-	Wake up 			
-	Attendance-check	
-
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			2. For Time
-				3000/2400M Row
-				300 DU
-
-				SU = 500reps
-				Scale Team of 2
-				선발 머신끝나자마자 바로 들어갑니다!
-
-			
-			3. Run 2.1km			
-	Work 			h
-
---------------------------------------------
-	WOD.	= Workout of the day
-
-
 1229
 
 	211229 Wed
@@ -3326,17 +3300,46 @@ AC = Attendance Check
 		WOD.				2h				
 			1. Run 	2.1km
 			2. Amrap 10min
-				12 DB hang snatch(6+6)
+				12 DB hang snatch(L6+R6) 15kg
 				14 T2B 
 				16 Alt DB Box step up
 
-				Rx 22.5/15kg
 				Target 5R 
+				record : 4R + 12 Alt DB Box step up
 
 			3. Run 2.1km			
 	
-	Work 			h
+	Work 			6h
+		Network. ZMQ
+		Maven. theory & practice
 	
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+
+
+1228 
+
+	211228 Tue
+
+	Wake up 			0600			
+	Attendance-check	1000
+
+	Self-development	2h
+		WOD.				2h				
+			1. For Time 
+				3000M Row
+				500 SU
+
+				record : 17'20"
+			
+			2. Strength 5x5
+				Squat 	 195lb
+				Deadlift 215lb 
+	
+	Work 			h
+
 --------------------------------------------
 	WOD.	= Workout of the day
 
