@@ -3347,7 +3347,7 @@ AC = Attendance Check
 	Wake up 			0600			
 	Attendance-check	1000
 
-	Self-development	2h
+	Self-development	4h
 		WOD.				2h				
 			1. For Time 
 				3000M Row
@@ -3359,8 +3359,12 @@ AC = Attendance Check
 				Squat 	 195lb
 				Deadlift 215lb 
 	
-	Work 			h
-
+		Book 2h
+			Cosmos - Carl Sagan
+	
+	Work 			6h
+		Fast review. ZMQ, gRPC, HTTP2 & 3, QUIC, WebRTC  
+		Start to fix Android app
 --------------------------------------------
 	WOD.	= Workout of the day
 
