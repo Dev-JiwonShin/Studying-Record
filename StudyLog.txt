@@ -1,96 +1,3 @@
-1229
-
-	211229 Wed
-
-	Wake up 			
-	Attendance-check	
-
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-
-			Warm up	3SET
-			3 Position Power snatch + 3 position squat snatch
-			(High hang , hang , ground)
-			*Empty bar
-
-			Snatch complex
-			1 SNATCH DEADLIFT + 1 Snatch + 1 Hang snatch + 1 OHS
-			Up to heavy
-
-			오버헤드스쾃 안되시면 생략!
-			남성분들은 드랍매트 사용하기
-			초보분들은 낮은 무게로 자세연습하기
-
-			3. Run 2.1km			
-
-	Work 			h
-
---------------------------------------------
-	WOD.	= Workout of the day
-
-
-1230
-
-	211230 Thu
-
-	Wake up 			
-	Attendance-check	
-
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			목요일
-
-			Emom 20min
-			Odd 15/12cal machine
-			Even 1R cindy
-
-			1R cindy 
-			= 5 Pull up + 10 Push up + 15 squat
-
-			Rx+ with vest
-			A 4/8/12 ,band ok ,knee push up
-			B 10-14min 
-
-			Each Round Time cap 50sec
-
-
-			3. Run 2.1km			
-	Work 			h
-
---------------------------------------------
-	WOD.	= Workout of the day
-
-
-1231
-
-	211231 Fri
-
-	Wake up 			
-	Attendance-check	
-
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			
-
-			10-8-6-4-2
-			Deadlift (225/155)
-			P.HSPU
-
-			Time cap 10min
-
-			핸푸는 평소보다 어렵게 진행
-			데드 무게 코치와 상의 후 선정
-
-				
-			3. Run 2.1km			
-	Work 			h
-
---------------------------------------------
-	WOD.	= Workout of the day
-
 
 
 0101
@@ -3365,6 +3272,74 @@ AC = Attendance Check
 	Work 			6h
 		Fast review. ZMQ, gRPC, HTTP2 & 3, QUIC, WebRTC  
 		Start to fix Android app
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+
+1229
+
+	211229 Wed
+
+	Wake up 			
+	Attendance-check	
+
+	Work 			11h
+		Android		9h30
+			SharedPreference	: fix many bugs
+			Handler				: Implement top-timer in Toolbar
+			API					: Find NASA, GIPHY 
+
+		Teamnova. PHP Week3 1h30
+
+
+
+1230
+
+	211230 Thu
+
+	Wake up 			0600
+	Attendance-check	0700
+
+	Work 			13h
+		Android		11h30
+			SharedPreference
+				Implement FIX & DELETE
+				Apply to pomodoro
+
+		Php			1h30
+			Try to build 
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+
+1231
+
+	211231 Fri
+
+	Wake up 			
+	Attendance-check	
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			
+
+			10-8-6-4-2
+			Deadlift (225/155)
+			P.HSPU
+
+			Time cap 10min
+
+			핸푸는 평소보다 어렵게 진행
+			데드 무게 코치와 상의 후 선정
+
+				
+			3. Run 2.1km			
+	Work 			h
+
 --------------------------------------------
 	WOD.	= Workout of the day
 
