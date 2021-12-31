@@ -3319,26 +3319,13 @@ AC = Attendance Check
 
 	211231 Fri
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0600
+	Attendance-check	0700
 
-	Self-development	2h
-		WOD.				2h				
-			1. Run 	2.1km
-			
-
-			10-8-6-4-2
-			Deadlift (225/155)
-			P.HSPU
-
-			Time cap 10min
-
-			핸푸는 평소보다 어렵게 진행
-			데드 무게 코치와 상의 후 선정
-
-				
-			3. Run 2.1km			
-	Work 			h
+	Work 			12h
+		Android		
+			Handler
+			API
 
 --------------------------------------------
 	WOD.	= Workout of the day
