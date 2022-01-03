@@ -60,9 +60,66 @@ Template
 	Attendance-check	1300
 
 
-	Work 			h
-		
+	Work 				5h
+		Android			
+			Handler			
+			API				
+
 
 --------------------------------------------
 	WOD.	= Workout of the day
+
+
+
+0102
+	
+	220102 Sun
+
+	Wake up 			0545
+	Attendance-check	0700
+
+	
+	Work 			10h
+		Android 6h
+			API & Fix many bugs
+		PHP 	4h
+			Install & theory 
+			Determine concept
+
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
+
+
+
+
+0103
+	
+	220103 Mon
+
+	Wake up 			0830	
+	Attendance-check	1200
+
+
+	Self-development	2h
+		WOD.				2h				
+			1. Run 	2.1km
+			2. Team of 2
+			20R (1:1 rotate each 10R) 7.5KG
+				1 Devil Press
+				2 Hang Snatch
+				3 DB Thruster
+				4 BBJO (30/24inch)
+			3. Run 	2.1km 
+	
+	Work 			8h
+		Android 8h	
+			HTTP 
+			REST with NASA API
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
 
