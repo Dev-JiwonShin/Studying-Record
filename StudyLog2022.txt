@@ -123,3 +123,21 @@ Template
 	WOD.	= Workout of the day
 
 
+
+
+0104
+	
+	220104 Tue
+
+	Wake up 			0600
+	Attendance-check	0700
+
+	Work 			10h
+		Android  10h	
+			OPEN API 	
+			Regular expression in Java
+
+--------------------------------------------
+	WOD.	= Workout of the day
+
+
