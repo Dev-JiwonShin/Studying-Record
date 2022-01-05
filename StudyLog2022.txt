@@ -141,3 +141,16 @@ Template
 	WOD.	= Workout of the day
 
 
+
+0105
+	
+	220105 Wed
+
+	Wake up 			0600
+	Attendance-check	0710
+
+	Work 			h
+		Android  
+
+--------------------------------------------
+	WOD.	= Workout of the day
