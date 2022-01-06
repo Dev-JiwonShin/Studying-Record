@@ -162,7 +162,7 @@ Template
 
 0106
 	
-	220106
+	220106 Thu
 
 	Wake up 			0400
 	Attendance-check	0440
@@ -177,3 +177,5 @@ Template
 		PHP 			8h
 			Install & Front-end
 		
+	몸은 쑤시지만 뿌듯!! 
+
