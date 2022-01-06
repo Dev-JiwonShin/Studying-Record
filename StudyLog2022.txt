@@ -149,8 +149,31 @@ Template
 	Wake up 			0600
 	Attendance-check	0710
 
-	Work 			h
-		Android  
-
+	Work 			12h30
+		Android  	10h
+			Improve the completeness 
+		PHP			2h30
+			Compare PHPStorm & Atom
 --------------------------------------------
 	WOD.	= Workout of the day
+
+
+
+
+0106
+	
+	220106
+
+	Wake up 			0400
+	Attendance-check	0440
+
+	Work 				16h
+		Make notion page 4h
+			- 13crew
+
+		Android			4h
+			FINISH!!
+		
+		PHP 			8h
+			Install & Front-end
+		
