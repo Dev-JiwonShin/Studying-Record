@@ -179,3 +179,20 @@ Template
 		
 	몸은 쑤시지만 뿌듯!! 
 
+
+0107
+	
+	220107 Thu
+
+	Wake up 			0400
+	Attendance-check	0430
+
+	Work 				16h30
+		Write Velog & 13crew	1h
+
+		PHP 			15h30
+			Network theory
+			Install & Front-end
+
+		
+
