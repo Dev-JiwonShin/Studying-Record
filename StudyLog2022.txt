@@ -221,6 +221,8 @@ Template
 	Wake up 			0500	
 	Attendance-check	0600
 	
-	Work 			h
+	Work 			4h
+		Make simple-NAS with iptime
+
 
 --------------------------------------------
