@@ -182,7 +182,7 @@ Template
 
 0107
 	
-	220107 Thu
+	220107 Fri
 
 	Wake up 			0400
 	Attendance-check	0430
@@ -196,3 +196,31 @@ Template
 
 		
 
+0108
+	
+	220108 Sat
+
+	Wake up 			0600	 	
+	Attendance-check	0630
+
+	Work 			7h
+		PHP 			6h
+			Front-end	
+			Concept
+
+		Write 13log 	1h
+
+--------------------------------------------
+
+
+
+0109
+	
+	220109 Sun
+
+	Wake up 			0500	
+	Attendance-check	0600
+	
+	Work 			h
+
+--------------------------------------------
