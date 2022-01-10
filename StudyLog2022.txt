@@ -226,3 +226,19 @@ Template
 
 
 --------------------------------------------
+
+
+0110
+	
+	220110 Mon
+
+	Wake up 			0700
+	Attendance-check	1300
+	
+	Work 			5h
+		Try to make simple-NAS with iptime
+		HTML tags
+
+
+
+--------------------------------------------
