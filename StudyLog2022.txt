@@ -242,3 +242,37 @@ Template
 
 
 --------------------------------------------
+
+
+
+
+0111
+	
+	220111 Tue
+
+	Wake up 			0600
+	Attendance-check	0645
+	
+	Work 			12h30
+		JS, CSS, HTML  		11h
+			code flow & principle
+		Blogging			1h30
+		
+
+
+--------------------------------------------
+
+
+0112
+	
+	220112 Wed
+
+	Wake up 			
+	Attendance-check	
+	
+	Work 			h
+		Blogging	
+		
+
+
+--------------------------------------------
