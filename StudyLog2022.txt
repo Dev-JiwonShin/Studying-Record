@@ -267,11 +267,13 @@ Template
 	
 	220112 Wed
 
-	Wake up 			
-	Attendance-check	
+	Wake up 			0600
+	Attendance-check	0710
 	
-	Work 			h
-		Blogging	
+	Work 			12h00	
+		CSS, HTML  		9h
+		Planning a spring semester 3h
+
 		
 
 
