@@ -278,3 +278,24 @@ Template
 
 
 --------------------------------------------
+
+
+
+0113
+	
+	220113 Sat 
+
+	Wake up 			0500
+	Attendance-check	0630
+	
+	Work 				10h
+		CSS, HTML  				6h
+		Planning a 13-Arts		3h
+		Planning a spring semester 1h
+
+
+
+		
+
+
+--------------------------------------------
