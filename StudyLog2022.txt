@@ -283,7 +283,7 @@ Template
 
 0113
 	
-	220113 Sat 
+	220113 Thu
 
 	Wake up 			0500
 	Attendance-check	0630
@@ -293,6 +293,28 @@ Template
 		Planning a 13-Arts		3h
 		Planning a spring semester 1h
 
+
+
+		
+
+
+--------------------------------------------
+		
+
+
+
+0114
+	
+	220114	Fri
+
+	Wake up 			0650
+	Attendance-check	0800
+	
+	Work 				6h
+		CSS, HTML  				5h
+		Planning a spring semester 1h
+	
+	A day with a lot of personal schedule
 
 
 		
