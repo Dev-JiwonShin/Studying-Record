@@ -321,3 +321,22 @@ Template
 
 
 --------------------------------------------
+
+
+
+	
+	220115	Fri
+
+	Wake up 			0450
+	Attendance-check	0600
+	
+	Work 				3h
+		PHP + DB + Login 	3h
+	
+	A day with a lot of personal schedule
+
+
+		
+
+
+--------------------------------------------
