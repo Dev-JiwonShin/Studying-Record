@@ -325,7 +325,7 @@ Template
 
 
 	
-	220115	Fri
+	220115	Sat
 
 	Wake up 			0450
 	Attendance-check	0600
@@ -335,6 +335,42 @@ Template
 	
 	A day with a lot of personal schedule
 
+
+		
+
+
+--------------------------------------------
+
+
+
+	
+	220116 Sun
+
+	Wake up 			0700
+	Attendance-check	0900
+	
+	Work 				11h
+		PHP + HTML with CSS
+			Optimize Board, SignIn, SignUp
+			Implement Mypage, AdminPage
+
+						
+
+		
+
+
+--------------------------------------------
+
+
+
+	
+	220117 Mon
+
+	Wake up 			0
+	Attendance-check	0
+	
+	Work 				h
+						
 
 		
 
