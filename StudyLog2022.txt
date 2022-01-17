@@ -366,10 +366,13 @@ Template
 	
 	220117 Mon
 
-	Wake up 			0
-	Attendance-check	0
+	Wake up 			0830 (Bad quality)
+	Attendance-check	1010
 	
-	Work 				h
+	Work 				10h
+		PHP + Mysql
+		VSCode + Mysql server at Ubuntu in Parallels
+
 						
 
 		
