@@ -379,3 +379,48 @@ Template
 
 
 --------------------------------------------
+
+
+
+	
+	220118 Tue
+
+	Wake up 			0600
+	Attendance-check	0800
+	
+	Self-development	0h30
+		Run 	4.2km
+
+	
+	Work 				8h30
+		PHP + Mysql					6h
+		Blogging					1h30		
+		Planning a spring semester 1h		
+		
+
+						
+
+		
+
+
+--------------------------------------------
+
+
+	
+	220119 Wed
+
+	Wake up 			
+	Attendance-check	
+	
+	Self-development	h
+		Run 	4.2km
+
+	
+	Work 				h
+		
+						
+
+		
+
+
+--------------------------------------------
