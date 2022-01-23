@@ -539,22 +539,68 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 	220122 Sat
 
-	Wake up 			0600
-	Attendance-check	0730
+	Wake up 			0620
+	Attendance-check	0750
 		
-	Work 				
-		Today I Learned		0h30		
-		PHP + Mysql			h
-
-
-
-			- Mypage : change pw, bookmark
-
+	Work 				4h
+		Today I Learned 	0h30
+		Meeting a 13-Arts	2h30 
+		PHP + Mysql			1h
+		
 
 
 --------------------------------------------
 
 220122 Today I Learned
+
+*오늘의주요문제*
+	
+
+*아쉬운점*
+	
+
+*배운것*
+	
+
+*개선할것* 
+	
+
+
+TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
+
+마켓컬리 이슬아 대표가 말한 것처럼, TIL은 내가 오늘 배운 것에 대해서 기록하는 것이다. 사소한 것이어도 내가 직접 느낀 것, 내가 실수한 부분 그래서 이렇게 하겠다 하는 부분 & 혹은 잘한 부분 & 아쉬웠던 부분 등등을 기록에 추가해보자. 가능한 매일 TIL도 record같이 업로드 해보자!!
+
+
+
+--------------------------------------------
+
+
+
+
+220123 Sun
+
+	Wake-up 			0620
+	Attendance-check	0750
+		
+	Work 				10h
+		Writing meeting 	2h
+		PHP + Mysql			8h
+			Board : add 'report'
+			Admin : add 'report' + detail
+			Mypage: Hard coding
+						+ board I wrote
+						+ board with bookmark
+
+
+
+
+--------------------------------------------
+
+
+
+
+
+220123 Today I Learned
 
 *오늘의주요문제*
 	
