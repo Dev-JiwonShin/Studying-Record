@@ -979,8 +979,8 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 220204
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0730
+	Attendance-check	0845
 		
 	Work 				h
 
