@@ -982,7 +982,11 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 	Wake-up 			0730
 	Attendance-check	0845
 		
-	Work 				h
+	Work 				12h30
+		PHP
+			Cookie&Session&JWT
+			Optimize UI/UX
+
 
 
 --------------------------------------------
@@ -990,6 +994,73 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 220204 Today I Learned
 	
+
+*오늘의굿짭*
+	재미있진 않은 웹, 귀찮지만 끈기있게 마무리 한 것!
+--------------------------------------------
+
+
+
+
+220205
+
+	Wake-up 			0730
+	Attendance-check	0945
+		
+	Work 				9h
+		PHP 
+			Popup&Cookie
+			Optimize requirements
+
+
+--------------------------------------------
+
+
+220205 Today I Learned
+
+*아쉬운점*
+	애매했다. 웹 개발에서 작업 속도도 더뎠고, 제대로 쉰 것도 아니었다. 토요일은 쉬는 날인데, 다음엔 약속이 없더라도 개발은 조금만 하고 웬만하면 쉬자.
+
+
+--------------------------------------------
+
+
+
+
+
+220206
+
+	Wake-up 			1000
+	Attendance-check	1230
+		
+	Work 				8h10
+		PHP
+			Final ver.0 for Week4
+		Product management
+			Gather information
+
+		
+
+--------------------------------------------
+
+
+
+
+220207
+
+	Wake-up 			
+	Attendance-check	
+		
+	Work 				
+		
+		
+
+--------------------------------------------
+
+
+220207 Today I Learned
+
+
 *오늘의주요문제*
 
 
@@ -1009,3 +1080,7 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 
 *느낀점*
+
+
+
+--------------------------------------------
