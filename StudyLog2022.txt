@@ -1048,8 +1048,8 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 220207
 
-	Wake-up 			
-	Attendance-check	
+	Wake-up 			0700
+	Attendance-check	0800
 		
 	Work 				
 		
