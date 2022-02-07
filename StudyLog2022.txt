@@ -1051,14 +1051,47 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 	Wake-up 			0700
 	Attendance-check	0800
 		
-	Work 				
-		
+	Work 					7h	
+		PHP
+		Product management
+			Gather information
+
+	
 		
 
 --------------------------------------------
 
 
 220207 Today I Learned
+
+
+*오늘의굿짭*
+쉴 땐 쉬자!! 해야하지만 안하기로 선택한건 용기있는 선택이었다.
+
+
+
+--------------------------------------------
+
+
+
+
+
+
+220208
+
+	Wake-up 			0
+	Attendance-check	0
+		
+	Work 				h	
+		
+		
+
+--------------------------------------------
+
+
+220208 Today I Learned
+
+
 
 
 *오늘의주요문제*
@@ -1082,5 +1115,3 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 *느낀점*
 
 
-
---------------------------------------------
