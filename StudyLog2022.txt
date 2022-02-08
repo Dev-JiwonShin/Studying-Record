@@ -1046,7 +1046,7 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 
 
-220207
+220207 Mon
 
 	Wake-up 			0700
 	Attendance-check	0800
@@ -1077,12 +1077,14 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 
 
-220208
+220208 Tue
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0600
+	Attendance-check	0830
 		
-	Work 				h	
+	Work 				8h
+		Class registration 6h
+		Cosmos - Carl sagan 2h
 		
 		
 
