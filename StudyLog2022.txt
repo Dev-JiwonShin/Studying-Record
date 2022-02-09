@@ -1091,7 +1091,22 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 --------------------------------------------
 
 
-220208 Today I Learned
+
+
+
+
+220209 Wed
+
+	Wake-up 			0600
+	Attendance-check	0720
+		
+	Work 				h
+		
+
+--------------------------------------------
+
+
+220209 Today I Learned
 
 
 
