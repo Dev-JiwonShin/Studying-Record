@@ -1100,7 +1100,10 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 	Wake-up 			0600
 	Attendance-check	0720
 		
-	Work 				h
+	Work 				10h30
+		PHP 
+			Implement many requirements
+
 		
 
 --------------------------------------------
@@ -1108,27 +1111,42 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 
 220209 Today I Learned
 
+*배운것*
+	두더지 잡기 모드로 때려 맞춰본 코드들이 정상 작동한다. 하기 귀찮고 싫을 때도 꾸준히 한 덕에, 모르는 문법의 활용&응용력도 대강 눈치로 파악하는 힘이 조금이나마 생긴 것 같다. 작동이 안될 코드를 일부러 작성하면서 코드를 어떻게 안되게 짜야 좋은 힌트를 얻을지 고민했다. 일부러 안되게 설계한 부분에서, 힌트를 얻어 결국 되게 만들었다. Bigger,Leaner,Stronger Yeah ~
+--------------------------------------------
 
 
 
-*오늘의주요문제*
+
+
+220210 Thu
+
+	Wake-up 			0550
+	Attendance-check	0710
+		
+	Work 				11h30
+		PHP 			10h30
+			NaverEditor &&
+			 Board CRUD &&
+			 Image Upload &&
+			 Paging 
+		
+		Cosmos - Carl sagan 1h
+
+--------------------------------------------
+
+
+220210 Today I Learned
+
 
 
 *오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
+	새벽에 산책 나가길 참 잘했다. 할 일이 산더미처럼 있더라도 의도적으로 다른 환경을 접하는게 나의 위치&상태&상황을 파악하기 쉽다. 괴물을 잡다가 내가 괴물이 되는 것을 경계 해야 하기에 의도적으로 물러서기가 필요한 요즘이다. 
 
 *감사함* 
+	당근마켓에서 아이패드 프로 12.9인치를 엄청 싸게 샀다. 인생은 스피드~! 빨리 쓰던 것도 좋은 값 받고 팔아야지 ㅎㅎ 여러모로 기분이 참 좋은 날이다.
 
+Bigger,Leaner,Stronger Yeah ~
 
-*느낀점*
 
 
