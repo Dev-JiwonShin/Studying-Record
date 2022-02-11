@@ -1168,7 +1168,24 @@ Bigger,Leaner,Stronger Yeah ~
 --------------------------------------------
 
 
-220211 Today I Learned
+
+
+
+
+
+220212 Sat
+
+	Wake-up 			0600
+	Attendance-check	0730
+		
+	Work 				h
+		
+		
+
+--------------------------------------------
+
+
+220212 Today I Learned
 
 *오늘의주요문제*
 
