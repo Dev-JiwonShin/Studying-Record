@@ -1198,8 +1198,12 @@ Bigger,Leaner,Stronger Yeah ~
 	Attendance-check	1020
 		
 	
+	Work 				10h
+		PHP 			7h
+			Ajax + Tab
+			Ajax + image DB
 
-
+		Havruta				3h		
 		
 
 --------------------------------------------
