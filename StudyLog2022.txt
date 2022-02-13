@@ -1173,19 +1173,39 @@ Bigger,Leaner,Stronger Yeah ~
 
 
 
-220212 Sat
+220212 Sat Vacation
 
 	Wake-up 			0600
 	Attendance-check	0730
 		
-	Work 				h
+	Self-development	1h30
+		13Arts
+			discuss art
 		
 		
 
 --------------------------------------------
 
 
-220212 Today I Learned
+
+
+
+
+
+220213 Sun
+
+	Wake-up 			0900
+	Attendance-check	1020
+		
+	
+
+
+		
+
+--------------------------------------------
+
+
+220213 Today I Learned
 
 *오늘의주요문제*
 
