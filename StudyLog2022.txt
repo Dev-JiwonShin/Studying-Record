@@ -1209,7 +1209,24 @@ Bigger,Leaner,Stronger Yeah ~
 --------------------------------------------
 
 
-220213 Today I Learned
+
+
+
+
+
+220214 Mon
+
+	Wake-up 			0900
+	Attendance-check	1020
+		
+	
+	Work 				h
+		
+
+--------------------------------------------
+
+
+220214 Today I Learned
 
 *오늘의주요문제*
 
