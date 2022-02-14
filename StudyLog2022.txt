@@ -1216,8 +1216,39 @@ Bigger,Leaner,Stronger Yeah ~
 
 220214 Mon
 
-	Wake-up 			0900
-	Attendance-check	1020
+	Wake-up 			0600
+	Attendance-check	0830
+		
+	
+	Work 				9h30
+		PHP
+			Client(mac) <-> Server(docker)
+			
+			Thinking about the structure for solving problems related to server-side directory access			
+		Cosmos - Carl sagan 0h30
+
+
+--------------------------------------------
+
+
+220214 Today I Learned
+
+*배운것*
+	설 연휴동안 도커, ssh, mysql-server에 대해 충분히 공부했다고 생각했었다. 하지만 오늘, php에서 도커&ssh 활용과 관련해 문제가 생겼다. 돌이켜보면, 설 연휴 때 mysql-server를 도커에서 사용하는 방법으로 ssh를 사용한다는 방식만 잘 익힌 것이지, php가 직접 서버의 디렉토리를 다루는 영역은 공부할 생각조차 못했었다. 서버사이드는 역시 복잡하다. 앱이든 웹이든 http, html을 사용한다. 유명한 앱은 대부분 네트워크를 꼭 활용한다는 점에서, 능력있는 개발자라면 서버에 대한 깊은 이해는 필수다. 일주일 정도 서버를 더 공부해보자~! 한번 할 때 제대로해야 뇌가 잘 기억할 수 있는 노드들이 더 생긴다. 3개월만에 안드로이드 소스코드를 볼 때 오히려 더 잘 이해됐던 기억을 되새기자~~~
+
+
+
+--------------------------------------------
+
+
+
+
+
+
+220215 Tue
+
+	Wake-up 			0500
+	Attendance-check	0900
 		
 	
 	Work 				h
@@ -1226,7 +1257,7 @@ Bigger,Leaner,Stronger Yeah ~
 --------------------------------------------
 
 
-220214 Today I Learned
+220215 Today I Learned
 
 *오늘의주요문제*
 
