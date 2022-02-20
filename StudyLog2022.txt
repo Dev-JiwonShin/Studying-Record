@@ -1389,8 +1389,8 @@ Bigger,Leaner,Stronger Yeah ~
 
 220220 Sun
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0700
+	Attendance-check	1200
 		
 	
 	Work 				h
