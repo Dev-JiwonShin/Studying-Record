@@ -1393,14 +1393,47 @@ Bigger,Leaner,Stronger Yeah ~
 	Attendance-check	1200
 		
 	
-	Work 				h
+	Work 				5h
+		Apache2, docker, remote!!
 		
 
 
 --------------------------------------------
 
 
-220220 Today I Learned
+
+220221 Mon
+
+	Wake-up 			0900 (bad,,)
+	Attendance-check	1000
+		
+	
+	Work 				10h
+		Havruta				3h
+		Blogging			2h
+		PHP 				5h
+
+
+
+--------------------------------------------
+
+
+
+220222 Tue
+
+	Wake-up 			0700
+	Attendance-check	1030
+		
+	
+	Work 				10h
+		PHP 			7h
+		Havruta			3h
+
+
+--------------------------------------------
+
+
+220222 Today I Learned
 
 *오늘의굿짭*
 
@@ -1417,3 +1450,80 @@ Bigger,Leaner,Stronger Yeah ~
 
 
 *느낀점*
+
+
+
+
+
+--------------------------------------------
+
+
+
+220223 Wed
+
+	Wake-up 			0900
+	Attendance-check	1030
+		
+	
+	Work 				8h
+		PHP 				5h30
+			Split string.. & Paging
+		Feedback			2h30
+
+
+--------------------------------------------
+
+
+220223 Today I Learned
+
+*아쉬운점*
+	질문을 해야 했다. 거의 다 됐다, 거의 다 왔다, 하면서 조금만 더 해보자 하다가 어느새 3시간 정도 스트링 자르고 대체하는 걸 고민 했었다. 애매하게 안되는데 그 이유가 뭐지?하며 고민했다. 문제상황과 고민을 털어 놓으며 내가 정리되는 그 효과를 얻자. + 커뮤니케이션 능력도 향상해야하니까~~!!! Bigger, Leaner, Stronger!!
+
+*배운것*
+
+
+*개선할것* 
+
+
+*감사함* 
+
+
+*느낀점*
+
+
+
+
+
+
+
+--------------------------------------------
+
+
+
+220224 Thu
+
+	Wake-up 			0700
+	Attendance-check	0830
+		
+	
+	Work 				12h
+		PHP 				12h
+			Hot-10 chart
+			Paging x 10,000
+			Get passed!
+
+
+--------------------------------------------
+
+
+220224 Today I Learned
+
+*배운것*
+	내가 아웃풋이 안나온다면, 판단력이 문제일 가능성이 크다. 개선방법 : 질문하기. 인정하기. 
+	Bigger, Leaner, Stronger!!
+
+	오늘 ~ 27일  : 이사&정리
+		~ 3월2일 : 휴식!
+
+
+
