@@ -1571,3 +1571,42 @@ Bigger,Leaner,Stronger Yeah ~
 
 
 *느낀점*
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+220302 Wed
+
+	Wake-up 			0630
+	Attendance-check	0800
+		
+	
+	Work 				12h
+		Havruta				2h
+		MM_SYS				2h
+		IoT_SW				2h
+		Planning			6h
+
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+
+
+220302 Wed Today I Learned
+
+
+*오늘의굿짭*
+	이사한 집에 맞춘 루틴의 개요가 점차 잡히는듯 하다. 적합한 책상 위치도 찾았고~
