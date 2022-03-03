@@ -1629,6 +1629,73 @@ Bigger,Leaner,Stronger Yeah ~
 	Attendance-check	1000
 		
 	
+	Work 				11h
+		Study planning 		8h
+			What is planning?
+			Read a book - The essence of planning
+		Havruta				2h
+		Review a book - Facts and Misconceptions of Object Oriented Concepts 1h
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+
+
+220303 Today I Learned
+
+
+*오늘의주요문제*
+	아침부터 효율 따지다가 결국 하루의 시작이 늦은 것. 달이랑 산책 vs 창고가서 물건 챙겨오기 vs 쓰레기 버리기 중 어느 걸 먼저 하는게 시간을 효율적으로 쓸 수 있는 것인지 고민하다가 열시에 출근했다. 그냥 뭐든지 시작했으면 9시에 출근했을텐데. 이불 속에서 떠나기 싫어서 '나는 합리적인 고민을 하고 있는 중이다'라는 핑계를 댄 것 일수도 있겠다.
+
+*배운것*
+	'기획자'라는 직업이 있는 이유를 실감했다. '기획 그거 이렇게 하는거 아니야?'라는 생각에서 '기획이란 업종까지 있을 정도로 심도있는 분야군'하는 생각으로 변했다. 기획에 정답은 없지만, 내 기획&기획서에 들어가야할 요소가 무엇일지 분별하는 기준을 얻었다. 
+
+*감사함* 
+	내가 여기서 무엇을 얻고 가야할지, 어떻게 얻을지, 뭐가 더 우선일지를 희진님과의 하브루타로 다시 한 번 생각해보게 되었다. 고마워요 희진님!
+
+Bigger, Leaner, Stronger! Yeah!
+
+
+
+
+
+
+오늘 이것 저것 서칭하며 알게된 명언들 중 감명 깊었던 것들
+
+1. 약을 팔기 전에 질병을 팔아라
+
+2. 그림이란 내 일기의 한 부분이다. 나는 보이는 것을 그리지 않고, 알고있는 것을 그린다. - 파블로 피카소
+
+3. 정체성을 갖지 않고는 집을 나서지 마라 - 아메리칸 익스프레스의 기업 모토
+
+4. BE STUPID - DIESEL
+
+5. STUPID MIGHT FAIL. SMART DOESN’T EVEN TRY - DIESEL
+
+6. SMART HAS THE PLANS, STUPID HAS THE STORIES. - DIESEL
+
+7. 협상에서 덜 중요한 사람은 언제나 당신임을 기억해야 한다. 가장 중요한 사람은 바로 상대방이다. - 스튜어트 다이아몬드
+
+8. 깊게 파기 위해 넓게 파기 시작했다 - 스피노자
+
+9. 당신이 글을 쓸 때마다 작가이기 오래 전에 독자였다는 사실을 기억하라 - 제롬 데이비드 챌린저
+
+
+
+
+
+
+
+--------------------------------------------
+
+220304 Fri
+
+	Wake-up 			0530
+	Attendance-check	0600
+		
+	
 	Work 				h
 
 
@@ -1639,7 +1706,61 @@ Bigger,Leaner,Stronger Yeah ~
 	Lec. SW_BIZ = SW Startup Business
 
 
-220303 Today I Learned
+
+
+
+220304 Today I Learned
+
+
+*오늘의주요문제*
+
+
+*오늘의굿짭*
+
+
+*아쉬운점*
+
+
+*배운것*
+
+
+*개선할것* 
+
+
+*감사함* 
+
+
+*느낀점*
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+220305 Sat
+
+	Wake-up 			0
+	Attendance-check	
+		
+	
+	Work 				h
+
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+
+
+
+
+
+220305 Today I Learned
 
 
 *오늘의주요문제*
