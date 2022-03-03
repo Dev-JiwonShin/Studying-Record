@@ -1610,3 +1610,55 @@ Bigger,Leaner,Stronger Yeah ~
 
 *오늘의굿짭*
 	이사한 집에 맞춘 루틴의 개요가 점차 잡히는듯 하다. 적합한 책상 위치도 찾았고~
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+220303 Thu
+
+	Wake-up 			0700
+	Attendance-check	1000
+		
+	
+	Work 				h
+
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+
+
+220303 Today I Learned
+
+
+*오늘의주요문제*
+
+
+*오늘의굿짭*
+
+
+*아쉬운점*
+
+
+*배운것*
+
+
+*개선할것* 
+
+
+*감사함* 
+
+
+*느낀점*
+
