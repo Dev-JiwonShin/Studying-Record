@@ -1739,12 +1739,12 @@ Bigger, Leaner, Stronger! Yeah!
 
 220305 Sat
 
-	Wake-up 			0530
+	Wake-up 			0530 (Bad condition)
 	Attendance-check	0830
 		
 	
-	Work 				h
-
+	Work 				3h
+		Planning
 
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -1756,42 +1756,13 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
-220305 Today I Learned
-
-
-*오늘의주요문제*
-
-
-*오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
-
-
-
-
-
-
-
 
 --------------------------------------------
 
 220306 Sun
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0600
+	Attendance-check	1100
 		
 	
 	Work 				h
