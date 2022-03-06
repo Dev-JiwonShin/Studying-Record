@@ -1765,7 +1765,10 @@ Bigger, Leaner, Stronger! Yeah!
 	Attendance-check	1100
 		
 	
-	Work 				h
+	Work 				10h
+		Planning		8h30
+		Writing			1h30
+
 
 
 --------------------------------------------
@@ -1779,6 +1782,37 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 220306 Today I Learned
+
+*오늘의굿짭*
+	자주 물어보자! 물어보면서 내 생각이 정리되고, 얻는게 더 많다. 
+
+
+
+
+
+--------------------------------------------
+
+220307 Mon
+
+	Wake-up 			0
+	Attendance-check	
+		
+	
+	Work 				h
+		
+
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+
+
+
+
+
+220307 Today I Learned
 
 
 *오늘의주요문제*
