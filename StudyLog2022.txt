@@ -1794,14 +1794,16 @@ Bigger, Leaner, Stronger! Yeah!
 
 220307 Mon
 
-	Wake-up 			0
-	Attendance-check	
+	Wake-up 			0700 (Bad condition,,)
+	Attendance-check	1530
 		
 	
-	Work 				h
-		
-
-
+	Work 				9h30
+		IoT_SW			1h
+		Planning		7h30
+			Flow chart
+			Information Architecture
+		Havruta			1h
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
