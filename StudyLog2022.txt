@@ -1869,8 +1869,9 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0530
 	Attendance-check	0800
 		
-	
-	
+	Work				8h
+		Planning			8h
+
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
@@ -1884,25 +1885,8 @@ Bigger, Leaner, Stronger! Yeah!
 220309 Today I Learned
 
 
-*오늘의주요문제*
-	
-
 *오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
+	외부 일정이 많아서 근무 시간을 많이 확보하지 못했지만, 그럼에도 양&질은 잡았다! 같은 1시간도 어떻게 쓰는지가 중요하다는걸 새삼 느낀다. 
 
 
 
