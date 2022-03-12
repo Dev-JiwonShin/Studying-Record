@@ -1926,9 +1926,34 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0800
 	Attendance-check	0900
 		
-	Work 				
-		Planning		
+	Work 				10h
+		Planning		9h
+			Planbased, Agile
+		Havruta			1h
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+
+
+
+
+--------------------------------------------
+
+220312 Sat
+
+	Wake-up 			0600
+	Attendance-check	0900
 		
+	Work 				6h30
+		Planning			6h
+		Havruta				0h30m
+
 	
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -1940,15 +1965,44 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
-220311 Today I Learned
+220312 Today I Learned
+
+*오늘의굿짭*
+	'과연 도움이 될까 이게..? 내가 이걸 쓸 일이 있을까? 배워둬야하나?'싶을 때 하기 싫어도 해두길 잘했다. 어줍잖게라도 머릿속에 들어 있는게 있어야, 뭐든 할 수 있을 때 그 흔적이라도 더듬어서 활용할 수 있다. 가능성이 적게라도 있는 것과 가능성조차 없는 것은 다른 문제다. 
+
+
+
+
+--------------------------------------------
+
+220313 Sun
+
+	Wake-up 			0
+	Attendance-check	0
+		
+	Work 				
+		Planning			h
+		Havruta				h
+
+	
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+
+220313 Today I Learned
 
 
 *오늘의주요문제*
 	
 
 *오늘의굿짭*
-
-
+	
 *아쉬운점*
 
 
