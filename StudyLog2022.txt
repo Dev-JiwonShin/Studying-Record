@@ -1,3 +1,22 @@
+22년 01월 1주차 = 15h 00m
+22년 01월 2주차 = 76h 00m
+22년 01월 3주차 = 59h 30m 
+22년 01월 4주차 = 66h 00m 
+22년 01월 5주차 = 60h 00m 
+22년 01월 총합 = 276h 30m 
+-------------------------
+
+22년 02월 1주차 = 54h 00m 
+22년 02월 2주차 = 53h 30m 
+22년 02월 3주차 = 60h 50m 
+22년 02월 4주차 = 44h 00m 
+22년 02월 총합 = 212h 20m 
+-------------------------
+
+22년 03월 1주차 = 47h 00m 
+22년 03월 2주차 = 66h 30m 
+
+
 
 *오늘의주요문제*
 
@@ -1977,12 +1996,17 @@ Bigger, Leaner, Stronger! Yeah!
 
 220313 Sun
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0700
+	Attendance-check	1215
 		
-	Work 				
-		Planning			h
-		Havruta				h
+	Work 					7h
+		Planning				6h
+			Requirements, Information architecture
+			Functional specification, 
+			Non-Functional specification,
+			UI design, UI definition
+
+		Writing					1h
 
 	
 --------------------------------------------
@@ -1996,6 +2020,39 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 220313 Today I Learned
+
+
+*오늘의굿짭*
+	컨디션이 안좋았는데도 끝까지 잘 붙들어 맨 것! 꾸준함의 힘!! 꽂히는 거에 불태우는 건 잘하니, 꾸준히 하는 능력을 키우자.
+
+
+
+
+
+
+--------------------------------------------
+
+220314 Mon
+
+	Wake-up 			0
+	Attendance-check	
+		
+	Work 				
+		Planning			h
+		
+
+	
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+
+220314 Today I Learned
 
 
 *오늘의주요문제*
