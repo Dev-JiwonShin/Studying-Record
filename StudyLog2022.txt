@@ -2034,12 +2034,19 @@ Bigger, Leaner, Stronger! Yeah!
 
 220314 Mon
 
-	Wake-up 			0
-	Attendance-check	
+	Wake-up 			0700
+	Attendance-check	0800
 		
-	Work 				
-		Planning			h
-		
+	Work 			9h30
+		SW_BIZ			1h30
+		MM_SYS			2h30
+		IoT_SW			1h00
+		Planning		4h00
+			Requirements(User, System, Functional, Non-functional)
+			Wire-frame
+			UML
+		Review a book 	0h30
+			- Facts and Misconceptions of Object Oriented Concepts 
 
 	
 --------------------------------------------
@@ -2050,16 +2057,47 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. App1
 
 
-
-
 220314 Today I Learned
+
+*개선할것* 
+	학교 수업 잘 듣기! 저번 학기에서 얻은 교훈 잘 지키기..! 시험 공부를 하지말고 평소 공부를 해두자.
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+220315 Tue
+
+	Wake-up 			0
+	Attendance-check	0
+		
+	Work 			
+		
+	
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+220315 Today I Learned
+
 
 
 *오늘의주요문제*
-	
+
 
 *오늘의굿짭*
-	
+
+
 *아쉬운점*
 
 
@@ -2073,4 +2111,3 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *느낀점*
-
