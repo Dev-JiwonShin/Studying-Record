@@ -2111,6 +2111,8 @@ Bigger, Leaner, Stronger! Yeah!
 		
 	Work 			
 		
+		N&A
+		IoT_SW
 	
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2121,6 +2123,51 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 220316 Today I Learned
+
+
+
+*오늘의주요문제*
+
+
+*오늘의굿짭*
+
+
+*아쉬운점*
+
+
+*배운것*
+
+
+*개선할것* 
+
+
+*감사함* 
+
+
+*느낀점*
+
+
+
+
+--------------------------------------------
+
+220317 Thu
+
+	Wake-up 			0
+	Attendance-check	0
+		
+	Work 			
+		
+	
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+220317 Today I Learned
 
 
 
