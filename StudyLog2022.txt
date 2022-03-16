@@ -2106,14 +2106,17 @@ Bigger, Leaner, Stronger! Yeah!
 
 220316 Wed
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0550
+	Attendance-check	0700
 		
-	Work 			
-		
-		N&A
-		IoT_SW
-	
+	Work 			10h
+		Planning		6h00
+			Give shape to requirements
+		N&A 			1h30
+		IoT_SW			2h
+		Reading a book	0h30
+			Title : Object
+
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
@@ -2123,6 +2126,30 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 220316 Today I Learned
+
+*오늘의굿짭*
+	피곤한 외부일정이 있는 와중에 운동도 하고 졸지도 않았던 것. 설계를 위해 객체 공부를 다시 시작한 것. 내일도 오늘만 같아라~!
+
+
+--------------------------------------------
+
+220317 Thu
+
+	Wake-up 			0
+	Attendance-check	0
+		
+	Work 			
+		
+	
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+220317 Today I Learned
 
 
 
@@ -2149,9 +2176,11 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
+
+
 --------------------------------------------
 
-220317 Thu
+220318 Fri
 
 	Wake-up 			0
 	Attendance-check	0
@@ -2167,7 +2196,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. App1
 
 
-220317 Today I Learned
+220318 Today I Learned
 
 
 
