@@ -2135,8 +2135,8 @@ Bigger, Leaner, Stronger! Yeah!
 
 220317 Thu
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0700
+	Attendance-check	1000
 		
 	Work 			
 		
