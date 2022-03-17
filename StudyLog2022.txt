@@ -2138,7 +2138,9 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0700
 	Attendance-check	1000
 		
-	Work 			
+	Work 			3h
+		Planning		1h
+		Havruta 		2h
 		
 	
 --------------------------------------------
@@ -2154,25 +2156,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의주요문제*
-
-
-*오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
-
+	자나깨나 건강 우선 건강 우선 건강 우선. 약 받았으니 내일은 오늘 못했던 것들의 두배로 해버리자아~!
 
 
 
