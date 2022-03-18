@@ -2194,8 +2194,8 @@ Bigger, Leaner, Stronger! Yeah!
 
 220319 Sat
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0800
+	Attendance-check	0900
 		
 	Work 			
 		
