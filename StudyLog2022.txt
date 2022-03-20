@@ -2226,7 +2226,13 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0500
 	Attendance-check	0700
 		
-	Work 			
+	Work 			3h
+		Planning		1h30
+		Writing			1h
+		Reading a book	0h30
+			Title : Object
+
+
 		
 	
 --------------------------------------------
@@ -2245,7 +2251,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의굿짭*
-
+	바쁜 와중에도 어떻게든 할 일은 한 것!
 
 *아쉬운점*
 
