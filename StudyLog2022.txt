@@ -2262,13 +2262,12 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0800
 	Attendance-check	0930
 		
-	Work 			
-		SW_BIZ			h
-		MM_SYS			h
-		IoT_SW			h
-		Planning		h
-		
-		
+	Work 			10h30
+		SW_BIZ				1h30
+		SW_BIZ				1h30
+		MM_SYS				2h30
+		IoT_SW				4h00
+		Blogging. Writing	1h
 	
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2283,7 +2282,36 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의주요문제*
+	오후 세시 이후로 커피 마시지 말 것. 어제 커피 많이 마셔서 오늘 컨디션이 꽝이다.
 
+
+
+
+
+
+--------------------------------------------
+
+220322 Tue
+
+	Wake-up 			0
+	Attendance-check	0
+		
+	Work
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+220322 Today I Learned
+
+
+
+*오늘의주요문제*
+	
 
 *오늘의굿짭*
 	
