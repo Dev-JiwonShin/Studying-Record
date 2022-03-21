@@ -15,9 +15,10 @@
 
 22년 03월 1주차 = 47h 00m 
 22년 03월 2주차 = 66h 30m 
-22년 03월 3주차 = h m 
+22년 03월 3주차 = 45h 30m
 22년 03월 4주차 = h m 
 22년 03월 5주차 = h m 
+22년 03월 총합 = h m 
 -------------------------
 
 
@@ -2245,13 +2246,47 @@ Bigger, Leaner, Stronger! Yeah!
 
 220320 Today I Learned
 
+*오늘의굿짭*
+	바쁜 와중에도 어떻게든 할 일은 한 것!
+
+
+
+
+
+
+
+--------------------------------------------
+
+220321	Mon
+
+	Wake-up 			0800
+	Attendance-check	0930
+		
+	Work 			
+		SW_BIZ			h
+		MM_SYS			h
+		IoT_SW			h
+		Planning		h
+		
+		
+	
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+220321 Today I Learned
+
 
 
 *오늘의주요문제*
 
 
 *오늘의굿짭*
-	바쁜 와중에도 어떻게든 할 일은 한 것!
+	
 
 *아쉬운점*
 
