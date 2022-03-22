@@ -2279,8 +2279,6 @@ Bigger, Leaner, Stronger! Yeah!
 
 220321 Today I Learned
 
-
-
 *오늘의주요문제*
 	오후 세시 이후로 커피 마시지 말 것. 어제 커피 많이 마셔서 오늘 컨디션이 꽝이다.
 
@@ -2293,10 +2291,14 @@ Bigger, Leaner, Stronger! Yeah!
 
 220322 Tue
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0700
+	Attendance-check	0900
 		
-	Work
+	Work 				10h
+		Planning
+			UI Architecture completed
+			DB structure completed
+			PPT 1/2
 
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2308,24 +2310,5 @@ Bigger, Leaner, Stronger! Yeah!
 
 220322 Today I Learned
 
-
-
-*오늘의주요문제*
-	
-
-*오늘의굿짭*
-	
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
 *감사함* 
-
-
-*느낀점*
+	좋은 사람이 가득한 것. 술술 풀리진 않았지만 집중은 잘 해서 오늘 할 일은 다 해내고 추가 달성까지 한 것. 일희일비 하지 않는 것.
