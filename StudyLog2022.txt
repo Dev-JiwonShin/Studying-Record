@@ -2325,8 +2325,11 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0610
 	Attendance-check	1000 
 		
-	Work 				h
-		Planning
+	Work 				10h00
+		IoT_SW			0h30
+		Planning		9h30
+			Contents
+			Details			
 			
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2338,25 +2341,9 @@ Bigger, Leaner, Stronger! Yeah!
 
 220323 Today I Learned
 
-*오늘의주요문제*
-
-
-*오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
 *감사함* 
 	도움이 필요할 때 도와줄 수 있다는 건 큰 행운!
 
-*느낀점*
 
 
 
@@ -2365,8 +2352,8 @@ Bigger, Leaner, Stronger! Yeah!
 
 220324 Thu
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0600
+	Attendance-check	0800
 		
 	Work 				h
 		Planning
