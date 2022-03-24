@@ -2355,8 +2355,9 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0600
 	Attendance-check	0800
 		
-	Work 				h
-		Planning
+	Work 				13h
+		Planning			9h30
+		App1				3h30
 			
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2368,22 +2369,6 @@ Bigger, Leaner, Stronger! Yeah!
 
 220324 Today I Learned
 
-*오늘의주요문제*
-
-
-*오늘의굿짭*
-
-
-*아쉬운점*
-
-
 *배운것*
+	Bigger, Leaner, Deeper, Stronger!
 
-
-*개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
