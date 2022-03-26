@@ -2415,10 +2415,13 @@ Bigger, Leaner, Stronger! Yeah!
 
 220326 Sat
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0450
+	Attendance-check	1700
 		
-	Work 				h
+	Work 				2h
+		Lifecycle for activity & fragment
+		Find & do test examples
+		
 			
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2435,7 +2438,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의굿짭*
-
+	바쁜 와중에도 개발 시간 조금이라도 확보한 것!!
 
 *아쉬운점*
 
