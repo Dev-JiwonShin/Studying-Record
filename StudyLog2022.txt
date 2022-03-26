@@ -2433,12 +2433,40 @@ Bigger, Leaner, Stronger! Yeah!
 
 220326 Today I Learned
 
+*오늘의굿짭*
+	바쁜 와중에도 개발 시간 조금이라도 확보한 것!! + 안드로이드 작업했던 기억+감각이 조금씩 되살아나는 것. 
+
+
+
+
+
+
+--------------------------------------------
+
+220327 Sun
+
+	Wake-up 			0
+	Attendance-check	
+		
+	Work 				h
+		
+			
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+220326 Today I Learned
+
 
 *오늘의주요문제*
 
 
 *오늘의굿짭*
-	바쁜 와중에도 개발 시간 조금이라도 확보한 것!!
+
 
 *아쉬운점*
 
