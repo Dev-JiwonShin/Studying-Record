@@ -2445,8 +2445,8 @@ Bigger, Leaner, Stronger! Yeah!
 
 220327 Sun
 
-	Wake-up 			0
-	Attendance-check	
+	Wake-up 			0600
+	Attendance-check	1430
 		
 	Work 				h
 		
