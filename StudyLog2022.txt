@@ -16,7 +16,7 @@
 22년 03월 1주차 = 47h 00m 
 22년 03월 2주차 = 66h 30m 
 22년 03월 3주차 = 45h 30m
-22년 03월 4주차 = h m 
+22년 03월 4주차 = 55h30m
 22년 03월 5주차 = h m 
 22년 03월 총합 = h m 
 -------------------------
@@ -2403,10 +2403,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의주요문제*
-	질문을 안했다. 
-
-
-
+	질문을 안했다.
 
 
 
@@ -2486,18 +2483,49 @@ Bigger, Leaner, Stronger! Yeah!
 
 220330 Wed
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0500
+	Attendance-check	0800
 			
-	Work 				h
-		
-			
+	Work 				12h
+		N&A 				0h30
+		IoT_SW				0h30
+		Development 		11h
+			Construct server EC2(Apache, Php, Mysql)
+			Success communication Android <-> EC2
+				
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
 	Lec. IoT_SW = IoT Software
 	Lec. SW_BIZ = SW Startup Business
 	Lec. App1
+
+*오늘의굿짭*
+	EC2에 APM 설치&세팅에서 애먹긴 했지만, 잘 해결했다. OKHttp도 처음 써보는데 운 좋게도 연결이 잘 되었다. 더 꼬일 수도 있었는데 이 정도에서 해결된 것만으로도 감사하다!
+
+*배운것*
+	폭삭 망하면 '이제 흥하겠지', 너무 흥하면 '이제 망하겠지'. 경험이 적어서 일희일비하던 모습에서 조금은 벗어난듯!
+
+
+
+
+
+--------------------------------------------
+
+220331	Thu
+
+	Wake-up 			0
+	Attendance-check	0
+			
+	Work 				h
+				
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
 
 
 *오늘의주요문제*
@@ -2520,3 +2548,4 @@ Bigger, Leaner, Stronger! Yeah!
 
 *느낀점*
 
+-------------------------
