@@ -2514,6 +2514,31 @@ Bigger, Leaner, Stronger! Yeah!
 
 220331	Thu
 
+	Wake-up 			0630
+	Attendance-check	0800
+			
+	Work 				8h
+		Development 		8h
+			Fix communication Android <-> EC2
+			Implement Signin & Signup (basic version)
+				
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+*오늘의주요문제*
+	메타인지, 메타인지, 메타인지!! 네트워크 통신에 대해 지식&경험이 모자라서 디버깅 삽질을 하기도 했지만, 한 발자국 물러나서 안드로이드 프로젝트 전체(매니페스트, 안드로이드 정책, 라이브러리 버전, ,,,)를 돌아보지 못했다. 디버깅하며 '이~상~하게' 문제 해결이 안될 때는 디버깅을 계속 하기보다 더 넓고 크게 생각해보자~!
+
+
+--------------------------------------------
+
+220401 Fri
+
 	Wake-up 			0
 	Attendance-check	0
 			
