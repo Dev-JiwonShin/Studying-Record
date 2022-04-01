@@ -2539,10 +2539,10 @@ Bigger, Leaner, Stronger! Yeah!
 
 220401 Fri
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0600
+	Attendance-check	0800
 			
-	Work 				h
+	Work 				3h
 				
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
