@@ -2606,8 +2606,12 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0630
 	Attendance-check	0800
 			
-	Work 				h
-				
+	Work 				11h
+		Development 		11h		
+			Simplify server directory & file
+			Being Fixing signin&up API(Github)
+			Use cURL PHP code to sign out
+
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
@@ -2618,26 +2622,10 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의주요문제*
+회원 관리 기능 개발을 마감일에 맞추려 하다 보니 마음이 조급했다. 천천히 생각해봤다면 로그아웃 기능을 Oauth2로 구현하기 위해 다른 방식(curl_setopt와 같은 php코드로 변환하는 과정)을 사용 해야 한다는 걸 깨달았을 텐데, 거의 다 왔단 생각에 급하게 결론을 내려 하다 보니 스텝이 꼬인 것 같다. 내일은 이러지 말고 계속 내가 하는 모든 프로세스를 관찰자 시점으로 바라보며 일해야겠다. 과정도 좋은데 성과가 없다면 무의미하다.
 
 
-*오늘의굿짭*
 
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
-
---------------------------------------------
 
 
 
@@ -2645,6 +2633,33 @@ Bigger, Leaner, Stronger! Yeah!
 --------------------------------------------
 
 220404 Mon
+
+	Wake-up 			0630
+	Attendance-check	0715
+			
+	Work 				7h
+		MM_SYS. 			2h
+		IoT_SW.				1h
+		Development 		3h
+			Fix Signup.java, signup_process.php
+			Reinstall php in Ubuntu
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+*오늘의주요문제*
+	넘 아픔.... 약 먹고 기절.
+
+
+
+--------------------------------------------
+
+220405 Tue
 
 	Wake-up 			0
 	Attendance-check	0
