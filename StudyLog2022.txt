@@ -24,7 +24,7 @@
 --------------------------------------------
 
 
-22년 04월 1주차 = h m 
+22년 04월 1주차 = 25h 00m 
 22년 04월 2주차 = h m 
 22년 04월 3주차 = h m
 22년 04월 4주차 = h m
@@ -33,7 +33,7 @@
 --------------------------------------------
 
 
-
+ 
 *오늘의주요문제*
 
 
@@ -2661,17 +2661,87 @@ Bigger, Leaner, Stronger! Yeah!
 
 220405 Tue
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0630
+	Attendance-check	0800
 			
-	Work 				h
-				
+	Work 				13h
+		Development 		13h
+			Fix Signup&in.php so that it works very well
+			Add Email&Password validation algorithm using regular expression in Server
+			Add Viewpager for Tutorial in Android
+			
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
 	Lec. IoT_SW = IoT Software
 	Lec. SW_BIZ = SW Startup Business
 	Lec. App1
+
+
+
+*오늘의굿짭*
+	코로롱 확진인 와중에도 진짜 열심히 살았다 오늘! 아픈데 서러운 마음으로 공부하니까, 분해서 더 악착같이 하게 된 것 같기도 하고. Bigger, Leaner, Deeper, Stronger!
+
+
+--------------------------------------------
+
+
+
+
+
+220406 Wed
+
+	Wake-up 			0540
+	Attendance-check	1200
+			
+	Work 				13h 30m
+		Development 		13h 30m
+			Fix 'Signin-github-flow' to add signout in Oauth2
+			Remove viewpager from android
+			Connect 4-fragments with MainActivity
+
+			
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software=
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+*오늘의주요문제*
+	뷰페이저..뷰페이저..뷰페이저..뷰페이저.. 하.. 자고나서 다시.. 
+
+*배운것*
+	급할수록 돌아가자.
+
+*느낀점*
+	안드로이드를 꽤 오랜만에 시작하는데, 다른 개발을 하는 동안 내 뇌가 안드로이드 관련 신경망을 재구성한 것 같다. 예전보다 안드로이드 전체적인 틀이 잘보이고, 뷰페이저처럼 새로운 개념을 봐도 금방 습득하는 점에서 확 느껴진다. 수능 수학처럼, 벼락치기로 해결되지 않는 부분이 분명 있다. 꾸준히 하자 꾸준히~! + 밤샘공부는 참 오랜만.
+
+
+--------------------------------------------
+
+
+
+
+
+220407 Thu
+
+	Wake-up 			0745
+	Attendance-check	0900
+			
+	Work 				h m
+		Development 		h m
+			
+			
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software=
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
 
 
 
@@ -2694,5 +2764,6 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *느낀점*
+
 
 --------------------------------------------
