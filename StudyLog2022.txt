@@ -2731,6 +2731,33 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0745
 	Attendance-check	0900
 			
+	Work 				10h 30m
+		App1.				1h30m
+		Development 		9h
+			
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software=
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+--------------------------------------------
+
+
+220408 Fri, 220409 Sat, 220410 Sun
+
+아픔. 무기력함. 에너지 넘치던 일상이 그리움. 자주 아픈 사람은 아닌데, 4월들어 악재가 겹치니 우울증 오는 것 같다..! 운동해야겠다. 궁상 떨어봤자 변하는 건 없고 내가 해결해야 할 내 몫이다. 
+
+
+
+
+
+220411 Mon
+
+	Wake-up 			0600
+	Attendance-check	0800
+			
 	Work 				h m
 		Development 		h m
 			
