@@ -25,7 +25,7 @@
 
 
 22년 04월 1주차 = 25h 00m 
-22년 04월 2주차 = h m 
+22년 04월 2주차 = 44h 00m 
 22년 04월 3주차 = h m
 22년 04월 4주차 = h m
 22년 04월 5주차 = h m 
@@ -2758,8 +2758,13 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0600
 	Attendance-check	0800
 			
-	Work 				h m
-		Development 		h m
+	Work 				11h 30m
+		SW_BIZ Lec.
+		MM_SYS Lec, Assignment
+			Algorithm for image processing
+			Histogram equalization
+		IoT_SW Lec, Assignment
+			6, 7
 			
 			
 --------------------------------------------
@@ -2770,6 +2775,33 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. App1
 
 
+
+*배운것*
+	뭐든 마음먹기 나름.
+
+
+
+
+--------------------------------------------
+
+
+
+
+
+220412 Tue
+
+	Wake-up 			0
+	Attendance-check	0
+			
+	Work 				h 0m
+			
+			
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software=
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
 
 
 *오늘의주요문제*
@@ -2791,6 +2823,3 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *느낀점*
-
-
---------------------------------------------
