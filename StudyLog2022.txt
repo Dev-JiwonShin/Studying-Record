@@ -2852,12 +2852,70 @@ Bigger, Leaner, Stronger! Yeah!
 
 220414 Thu
 
+	Wake-up 			0800
+	Attendance-check	0930
+			
+	Work 				8h30
+		Havruta				1h30
+		N&A 				7h
+			Collecting data for writing 
+			Writing an outline 
+				- 'A study on the Western view of nature and expression revealed in the <The Matrix> series'
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+*오늘의굿짭*
+	하브루타로 매트릭스를 조금 더 다차원으로 이해한 것!!
+
+
+
+
+
+
+--------------------------------------------
+
+
+220415 Fri
+
+	Wake-up 			0630
+	Attendance-check	0920
+			
+	Work 				10h30
+		Havruta				1h30m
+		N&A. Writing an essay	9h
+			- 'A study on the Western view of nature and expression revealed in the <The Matrix> series'		
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+*오늘의굿짭*
+	목표를 이룬 것. 개요를 탄탄히 작성하고, 한 호흡에 글을 다 써낸 것. 
+
+*아쉬운점*
+	철학자와 그 사상을 더 다양하게 알지 못해 글을 더 풍부하게 적지 못했던 것.
+
+
+
+
+--------------------------------------------
+
+
+220416 Sat
+
 	Wake-up 			0
 	Attendance-check	0
 			
 	Work 				h
 		
-			
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
@@ -2870,7 +2928,6 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *오늘의굿짭*
-
 
 
 *아쉬운점*
@@ -2886,3 +2943,4 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *느낀점*
+
