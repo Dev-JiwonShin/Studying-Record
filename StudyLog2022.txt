@@ -2911,8 +2911,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 220416 Sat
 
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0700
 			
 	Work 				h
 		
