@@ -26,7 +26,7 @@
 
 22년 04월 1주차 = 25h 00m 
 22년 04월 2주차 = 44h 00m 
-22년 04월 3주차 = h m
+22년 04월 3주차 = 58h 30m
 22년 04월 4주차 = h m
 22년 04월 5주차 = h m 
 22년 04월 총합 =  h m 
@@ -2912,9 +2912,13 @@ Bigger, Leaner, Stronger! Yeah!
 220416 Sat
 
 	Wake-up 			0700
-			
-	Work 				h
 		
+220417 Sun
+	Wake-up 			0800
+	Work 				7h
+		Analyze&Study feedback	3h
+		Meeting					3h
+		Writing					1h
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
@@ -2923,23 +2927,5 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. App1
 
 
-*오늘의주요문제*
-
-
 *오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
-
+	세상은 넓고, 사람은 다양하고, 과유불급!
