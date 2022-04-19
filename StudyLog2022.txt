@@ -2941,6 +2941,9 @@ Bigger, Leaner, Stronger! Yeah!
 	Attendance-check	0940
 	
 	Work 				7h
+		MM_SYS
+		IoT_SW
+		Studying PT
 		
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2959,7 +2962,10 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0700
 	Attendance-check	1000
 	
-	Work 				h
+	Work 				8h
+		Analyze&Study feedback			3h
+		Add Writing Activity & layout	5h
+			basic version
 		
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2970,6 +2976,27 @@ Bigger, Leaner, Stronger! Yeah!
 
 
  
+*오늘의주요문제*
+	코로나 걸린 후로 만성 피로가 장난 아니다.. 이 난관을 극복할 방법을 생각하며 행동하자. + 컨디션이 좋지 않음을 인지하고 계획을 세우자. 코로나 이전처럼 계속 하면 번아웃 올듯.
+ 
+
+
+--------------------------------------------
+
+220420 Wed
+	Wake-up 			0500
+	Attendance-check	0545
+	
+	Work 				h
+		
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
 *오늘의주요문제*
 
 
