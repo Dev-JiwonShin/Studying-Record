@@ -2950,6 +2950,25 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. App1
 
 
+
+
+
+--------------------------------------------
+
+220419 Tue
+	Wake-up 			0700
+	Attendance-check	1000
+	
+	Work 				h
+		
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
  
 *오늘의주요문제*
 
