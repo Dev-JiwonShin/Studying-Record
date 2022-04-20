@@ -2987,7 +2987,9 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0500
 	Attendance-check	0545
 	
-	Work 				h
+	Work 				14h30m
+		Add upload_post, download_post in EC2
+		Add Writing.java in Android
 		
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
@@ -2996,23 +2998,6 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. SW_BIZ = SW Startup Business
 	Lec. App1
 
-
-*오늘의주요문제*
-
-
-*오늘의굿짭*
-
-
-*아쉬운점*
-
-
-*배운것*
-
-
-*개선할것* 
-
-
 *감사함* 
+	잘하려 하지 않고 그냥 한거. 꾸준히만 하자.
 
-
-*느낀점*
