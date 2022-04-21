@@ -3009,6 +3009,25 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0450
 	Attendance-check	0555
 	
+	Work 				13h 30m
+		Make PPT for App1		11h
+		App1.					2h 30m
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+
+--------------------------------------------
+
+220422 Fri
+	Wake-up 			0
+	Attendance-check	0
+	
 	Work 				h m
 		
 --------------------------------------------
