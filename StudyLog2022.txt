@@ -3047,11 +3047,33 @@ Bigger, Leaner, Stronger! Yeah!
 --------------------------------------------
 
 220423 Sat
+	Wake-up 			0630
+	Attendance-check	0800
+	
+	Work 				6h
+		Havruta
+		Writing essay
+
+--------------------------------------------
+	Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+*아쉬운점*
+	중용을 생각하자. 실천은 못할지언정 시도는 해야지~
+
+
+
+--------------------------------------------
+
+220424 Sun
 	Wake-up 			0
 	Attendance-check	0
 	
-	Work 				h m
-		
+	Work 				h
 		
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
