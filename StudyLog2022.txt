@@ -3070,11 +3070,22 @@ Bigger, Leaner, Stronger! Yeah!
 --------------------------------------------
 
 220424 Sun
-	Wake-up 			0
-	Attendance-check	0
 	
-	Work 				h
-		
+	Work 				3h
+		Writing essay
+
+--------------------------------------------
+
+
+220425 Mon
+	Wake-up 			0700
+	Attendance-check	0800
+	
+	Work 				6h
+		Havruta
+		Writing essay 
+		Submit a report (SW_BIZ)
+
 --------------------------------------------
 	Lec. MM_SYS = Multi-Media System
 	Lec. N&A 	= Nature&Arts
@@ -3082,6 +3093,29 @@ Bigger, Leaner, Stronger! Yeah!
 	Lec. SW_BIZ = SW Startup Business
 	Lec. App1
 
+
+
+
+220426 Tue
+	Wake-up 			0700
+	Attendance-check	0920
+	
+	Work 				4h
+		Havruta
+	
+	Break
+
+--------------------------------------------
+
+ 
+
+
+220427 Wed
+	Wake-up 			0800
+	
+	Work 				h
+		
+--------------------------------------------
 
  
 *오늘의주요문제*
