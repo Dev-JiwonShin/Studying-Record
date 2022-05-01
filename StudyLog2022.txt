@@ -3120,6 +3120,16 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0700
 	Attendance-check	1100
 	
+	Work 				7h
+		MM. Image, Image_Compression
+
+
+--------------------------------------------
+
+220431 Sun
+	Wake-up 			0600
+	Attendance-check	0730
+	
 	Work 				h
 		
 	
