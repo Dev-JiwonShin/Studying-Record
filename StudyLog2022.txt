@@ -3126,14 +3126,28 @@ Bigger, Leaner, Stronger! Yeah!
 
 --------------------------------------------
 
-220431 Sun
+220501 Sun
 	Wake-up 			0600
 	Attendance-check	0730
 	
-	Work 				h
-		
-	
+	Work 				10h
+		Writing				1h
+		Havruta				1h
+		MM. Graphics + SMR 	8h
+			
 --------------------------------------------
+
+
+
+220502 Mon
+	Wake-up 			0445
+	Attendance-check	0
+	
+	Work 				h
+			
+
+--------------------------------------------
+
 
 *오늘의주요문제*
 
