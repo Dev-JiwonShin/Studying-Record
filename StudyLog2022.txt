@@ -3141,11 +3141,11 @@ Bigger, Leaner, Stronger! Yeah!
 
 220502 Mon
 	Wake-up 			0445
-	Attendance-check	0
+	Attendance-check	0600
 	
-	Work 				h
-			
-
+	Work 				9h
+		MM. Mid-term		  6h
+		Communication meeting 3h
 --------------------------------------------
 
 
