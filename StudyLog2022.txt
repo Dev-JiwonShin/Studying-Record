@@ -3155,8 +3155,9 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0520
 	Attendance-check	0640
 	
-	Work 				h
-		
+	Work 				4h
+		Naver Search Cholloquium 	4h
+
 --------------------------------------------
 
 
