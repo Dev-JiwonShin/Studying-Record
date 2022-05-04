@@ -32,6 +32,18 @@
 22년 04월 총합 =  h m 
 --------------------------------------------
 
+Lec. MM_SYS = Multi-Media System
+	Lec. N&A 	= Nature&Arts
+	Lec. IoT_SW = IoT Software
+	Lec. SW_BIZ = SW Startup Business
+	Lec. App1
+
+
+WOD.	= Workout of the day
+	AMRAP.	= As many round as possible
+	Rep.	= Repetitions
+	PU.		= Pull up
+	BBJ.	= Burpee Box Jump
 
  
 *오늘의주요문제*
@@ -3155,8 +3167,41 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0520
 	Attendance-check	0640
 	
+	Self-development	1h
+		WOD.				1h
+			1. Warm up 
+				Walking the dog
+			2. 5Set
+				5 PU(strict)
+				5 PU(negative)
+				10 Dips
+				5 Pushup
+				20 Air squat
+	
 	Work 				4h
 		Naver Search Cholloquium 	4h
+
+--------------------------------------------
+
+
+
+
+220504 Wed
+	Wake-up 			0630
+	Attendance-check	1000
+	
+	Self-development	1h
+		WOD.				1h
+			1. Warm up 
+				Walking the dog
+
+			2. 4Set
+				1m / Cable pull-down
+				1m / Row
+				15rep / OHS
+
+	Work 				h
+		
 
 --------------------------------------------
 
