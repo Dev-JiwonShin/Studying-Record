@@ -3207,8 +3207,25 @@ Bigger, Leaner, Stronger! Yeah!
 --------------------------------------------
 
 
-*오늘의주요문제*
 
+
+220505 Thu
+	Wake-up 			0700
+	Attendance-check	0900
+	
+	Self-development	1h30
+		WOD.				1h30
+			1. Warm up 
+				Walking the dog
+
+	Work 				7h
+		Havruta
+		JSON (Client, Server, DB)
+--------------------------------------------
+
+
+*오늘의주요문제*
+	
 
 *오늘의굿짭*
 
