@@ -3236,6 +3236,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
+--------------------------------------------
 
 
 220508 Sun
@@ -3249,9 +3250,9 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
-22050
-	Wake-up 			0
-	Attendance-check	0
+220509 Mon
+	Wake-up 			0600 (Bad)
+	Attendance-check	1205
 	
 	Work 				h
 		
