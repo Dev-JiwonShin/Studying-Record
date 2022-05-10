@@ -3231,7 +3231,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
-220425 ~ 220508 break for Convalescence
+220425 ~ 220510 break for Convalescence
 	Work 53h
 
 
@@ -3239,19 +3239,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 
-
-220509 Mon
-	Wake-up 			0600 (Bad)
-	Attendance-check	1205
-	
-	Work 				h
-		
---------------------------------------------
-
-
-
-
-220510 Tue
+220511 Wed
 	Wake-up 			0700
 	Attendance-check	0
 	
