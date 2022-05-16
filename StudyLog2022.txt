@@ -3237,10 +3237,6 @@ Bigger, Leaner, Stronger! Yeah!
 
 --------------------------------------------
 
-
-
-
-
 220513 Fri
 	Wake-up 			0630
 	Attendance-check	1000
@@ -3265,12 +3261,25 @@ Bigger, Leaner, Stronger! Yeah!
 ------------------------------------------------------------
 
 
-220514 Sat
-	Wake-up 			0830
-	
-	Work 				h
+220514,15 break for Convalescence
 		
 --------------------------------------------
+
+220516 Mon
+	Wake-up 			0800
+	Attendance-check	1400
+	
+	Self-development	3h00
+
+	Work 				8h
+		Android
+			Rebuilding, Refactoring
+		N&A meeting
+
+		
+--------------------------------------------
+
+
 
 
 *오늘의주요문제*
@@ -3278,6 +3287,7 @@ Bigger, Leaner, Stronger! Yeah!
 
 *오늘의굿짭*
 	
+
 *아쉬운점*
 
 
