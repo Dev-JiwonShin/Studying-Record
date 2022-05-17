@@ -3293,16 +3293,42 @@ Bigger, Leaner, Stronger! Yeah!
 	
 	Work 				8h
 		N&A 				1h
-		Android
-		
+		Keyword essay		1h
+		Planning			1h
+		Android&PHP			5h
+			Signin, Signup
+			Writing
 --------------------------------------------
 
+*오늘의굿짭*
+	집 밖으로 나간 것.
+	우선 나가면 해결된다!
+	기분 전환!
 
-*오늘의주요문제*
+------------------------------------------------------------
+
+
+220518 Wed
+	Wake-up 			0530
+	Attendance-check	0845
 	
+	Self-development	1h30
+		Run&				1h30
+	
+	Work 				h
+		Planning			h
+		N&A 				h
+		Keyword essay		h
+		Android&PHP			h
+			
+--------------------------------------------
+
+ 
+*오늘의주요문제*
+
 
 *오늘의굿짭*
-	
+
 
 *아쉬운점*
 
