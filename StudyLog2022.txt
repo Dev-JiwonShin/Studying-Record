@@ -3315,31 +3315,22 @@ Bigger, Leaner, Stronger! Yeah!
 	Self-development	1h30
 		Run&				1h30
 	
-	Work 				h
-		Planning			h
-		N&A 				h
-		Keyword essay		h
-		Android&PHP			h
-			
+	Work 				9h30
+		Planning			1h
+		Keyword essay		0h30
+		Client&Server			8h
+			JSON -> Array in Client
+			Fix writing post
 --------------------------------------------
 
- 
-*오늘의주요문제*
-
-
 *오늘의굿짭*
-
+	- 어제처럼 오늘도 집 밖으로 나가서 엉덩이 붙이고 버틴 것.
 
 *아쉬운점*
-
+	- 잠을 다섯시간 정도 밖에 못잔 것
 
 *배운것*
-
+	- 남을 돕자. 그게 내가 더 즐겁게 개발할 수 있는 길이다.
 
 *개선할것* 
-
-
-*감사함* 
-
-
-*느낀점*
+	- 수면 질 (일찍 자기)
