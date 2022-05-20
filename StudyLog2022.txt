@@ -3313,7 +3313,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Attendance-check	0845
 	
 	Self-development	1h30
-		Run&				1h30
+		Run 				1h30
 	
 	Work 				9h30
 		Planning			1h
@@ -3334,3 +3334,78 @@ Bigger, Leaner, Stronger! Yeah!
 
 *개선할것* 
 	- 수면 질 (일찍 자기)
+
+
+------------------------------------------------------------
+
+
+
+220519 Thu
+	Wake-up 			0640
+	Attendance-check	0830
+	
+	Self-development	1h00
+		Run 				1h00
+	
+	Work 				12h
+		TeamNova. App1		3h40
+		Planning			0h30
+		Keyword essay		0h30
+		Client&Server		7h20
+			Fix Writing.java, Signin_json.java work well
+			Fix upload_post.php, download_post.php, download_account_post.php work well
+--------------------------------------------
+
+*아쉬운점*
+	운동을 덜한 것.
+
+*개선할것* 
+	운동 시간보다 강도를 늘릴 것.
+
+*감사함* 
+	조금씩 건강이 나아진 것.
+
+
+
+------------------------------------------------------------
+
+
+
+
+220520 Fri
+	Wake-up 			0700
+	Attendance-check	0845
+	
+	Self-development	0h30
+		Run 				0h30
+	
+	Work 				h
+		Planning			0h30
+		QnA					0h30
+		Keyword essay		0h30
+		Client&Server		h
+
+
+--------------------------------------------
+
+*오늘의주요문제*
+
+
+*오늘의굿짭*
+
+
+*아쉬운점*
+
+
+*배운것*
+
+
+*개선할것* 
+
+
+*감사함* 
+
+
+*느낀점*
+
+
