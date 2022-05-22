@@ -1,35 +1,45 @@
-22년 01월 1주차 = 15h 00m
-22년 01월 2주차 = 76h 00m
-22년 01월 3주차 = 59h 30m 
-22년 01월 4주차 = 66h 00m 
-22년 01월 5주차 = 60h 00m 
-22년 01월 총합 = 276h 30m 
+22년 01월 1주차 = Work(15h 00m)
+22년 01월 2주차 = Work(76h 00m)
+22년 01월 3주차 = Work(59h 30m)
+22년 01월 4주차 = Work(66h 00m)
+22년 01월 5주차 = Work(60h 00m)
+22년 01월 총합 = Work(276h 30m)
 --------------------------------------------
 
 
-22년 02월 1주차 = 54h 00m 
-22년 02월 2주차 = 53h 30m 
-22년 02월 3주차 = 60h 50m 
-22년 02월 4주차 = 44h 00m 
-22년 02월 총합 = 212h 20m 
+22년 02월 1주차 = Work(54h 00m)
+22년 02월 2주차 = Work(53h 30m)
+22년 02월 3주차 = Work(60h 50m)
+22년 02월 4주차 = Work(44h 00m)
+22년 02월 총합 = Work(212h 20m)
 --------------------------------------------
 
 
-22년 03월 1주차 = 47h 00m 
-22년 03월 2주차 = 66h 30m 
-22년 03월 3주차 = 45h 30m
-22년 03월 4주차 = 55h 30m
-22년 03월 5주차 = 24h 00m 
-22년 03월 총합 = 238h 30m 
+22년 03월 1주차 = Work(47h 00m)
+22년 03월 2주차 = Work(66h 30m)
+22년 03월 3주차 = Work(45h 30m)
+22년 03월 4주차 = Work(55h 30m)
+22년 03월 5주차 = Work(24h 00m)
+22년 03월 총합 = Work(238h 30m)
 --------------------------------------------
 
 
-22년 04월 1주차 = 25h 00m 
-22년 04월 2주차 = 44h 00m 
-22년 04월 3주차 = 58h 30m
-22년 04월 4주차 = 58h 30m
-22년 04월 5주차 = h m 
-22년 04월 총합 =  h m 
+22년 04월 1주차 = Work(25h 00m)
+22년 04월 2주차 = Work(44h 00m)
+22년 04월 3주차 = Work(58h 30m)
+22년 04월 4주차 = Work(58h 30m)
+22년 04월 5주차 = Work(00h 00m)
+22년 04월 총합 = Work(186h 00m)
+--------------------------------------------
+
+
+22년 05월 1주차 = Work(00h 00m) Workout(0h00)
+22년 05월 2주차 = Work(53h 00m) Workout(0h00)
+22년 05월 3주차 = Work(67h 30m) Workout(7h30)
+22년 05월 4주차 = h m
+22년 05월 5주차 = h m 
+22년 05월 총합 =  m 
+
 --------------------------------------------
 
 Lec. MM_SYS = Multi-Media System
@@ -3359,18 +3369,15 @@ Bigger, Leaner, Stronger! Yeah!
 *아쉬운점*
 	운동을 덜한 것.
 
-*개선할것* 
+*개선할것*
 	운동 시간보다 강도를 늘릴 것.
 
-*감사함* 
+*감사함*
 	조금씩 건강이 나아진 것.
 
 
 
 ------------------------------------------------------------
-
-
-
 
 220520 Fri
 	Wake-up 			0700
@@ -3379,14 +3386,97 @@ Bigger, Leaner, Stronger! Yeah!
 	Self-development	0h30
 		Run 				0h30
 	
+	Work 				11h
+		Planning			0h30
+		Keyword essay		1h00
+		Client				5h00
+			Room, SQLite, 
+		QnA					4h30
+			Analyze pros and cons between only studying and studying+workout
+
+------------------------------------------------------------
+
+*감사함* 
+	좋지 않은 상황을 좋은 생각으로 반전한 것
+
+*느낀점*
+	친절하기, 베풀기, 진심은 통한다는 것
+
+------------------------------------------------------------
+
+
+
+220521 Sat
+	Wake-up 			0640
+	Attendance-check	0800
+	
+	Self-development	0h30
+		Walk 				0h30
+	
+	Work 				6h30
+		Planning			0h30
+		Keyword essay		1h00
+		Client				5h00
+			Understand RoomDB
+		
+			
+--------------------------------------------
+
+
+
+220522 Sun
+	Wake-up 			0700
+	Attendance-check	1000
+	
+	Work 				12h30
+		Planning			0h30
+		Keyword essay		0h30
+		Writing essay 		1h30
+		N&A meeting			1h00
+		Server & Client		9h00
+			JSON String <-> JSON file
+			Parse JSON String <-> JSON file
+			Understand implementation problem about JSON-simple
+		
+			
+--------------------------------------------
+
+
+*오늘의굿짭*
+	잠을 제대로 못자서 엄청 피곤했는데 의지로 극복했다!!! 굿짭!
+	JUnit이랑 JSON-simple 라이브러리간 충돌 문제로 꽤 고생해서 JSON-simple을 포기하고 다른 방법으로 해결하고자 했는데 스택오버플로우로 해결했다. 문제가 생길 때 찬찬히 들여다보면 다 볼 수 있다. 건너뛰기만 하지 않으면 다 가능하다!
+
+*아쉬운점*
+	잠은 집에서 자자.. 집 나가면 개고생
+
+*배운것*
+	카페인 섭취를 줄이자. 카페인은 부스터일뿐, 부스터를 매일 먹으면 나중에 부스터가 필요할 때 효과를 못본다.
+
+*감사함* 
+	오늘도 좋은 사람과 함께 할 수 있어서 감사하다
+
+
+
+
+------------------------------------------------------------
+
+220523 Mon
+	Wake-up 			0
+	Attendance-check	0
+	
 	Work 				h
 		Planning			0h30
-		QnA					0h30
 		Keyword essay		0h30
-		Client&Server		h
-
-
+		N&A meeting			1h00
+		Server & Client		9h00
+			JSON String <-> JSON file
+			Parse JSON String <-> JSON file
+			Understand implementation problem about JSON-simple
+		
+			
 --------------------------------------------
+
+
 
 *오늘의주요문제*
 
@@ -3407,5 +3497,3 @@ Bigger, Leaner, Stronger! Yeah!
 
 
 *느낀점*
-
-
