@@ -87,7 +87,7 @@ WOD.	= Workout of the day
 	Attendance-check
 
 
-	Self-development	2h
+	Workout				2h
 		
 	Work 			h
 
@@ -114,7 +114,7 @@ Template
 	Attendance-check
 
 
-	Self-development	2h
+	Workout				2h
 		WOD.				2h				
 			1. Run 	2.1km
 			3. Run 	2.1km 
@@ -183,7 +183,7 @@ Template
 	Attendance-check	1200
 
 
-	Self-development	2h
+	Workout				2h
 		WOD.				2h				
 			1. Run 	2.1km
 			2. Team of 2
@@ -468,7 +468,7 @@ Template
 	Wake up 			0600
 	Attendance-check	0800
 	
-	Self-development	1h00
+	Workout				1h00
 		Run 	4.2km 		0h30
 		Reading book		0h30
 			Object - 조영호
@@ -529,7 +529,7 @@ TIL = Today I Learned이란? https://youtu.be/wg-HPkqZ5qI
 	Wake up 			0700 (Bad quality)
 	Attendance-check	0820
 		
-	Self-development	0h20
+	Workout				0h20
 		Run 	3km 		0h20
 	
 	Work 				13h30
@@ -1237,7 +1237,7 @@ Bigger,Leaner,Stronger Yeah ~
 	Wake-up 			0600
 	Attendance-check	0730
 		
-	Self-development	1h30
+	Workout				1h30
 		13Arts
 			discuss art
 		
@@ -3177,7 +3177,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0520
 	Attendance-check	0640
 	
-	Self-development	1h
+	Workout				1h
 		WOD.				1h
 			1. Warm up 
 				Walking the dog
@@ -3200,7 +3200,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0630
 	Attendance-check	1000
 	
-	Self-development	1h
+	Workout				1h
 		WOD.				1h
 			1. Warm up 
 				Walking the dog
@@ -3223,7 +3223,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0700
 	Attendance-check	0900
 	
-	Self-development	1h30
+	Workout				1h30
 		WOD.				1h30
 			1. Warm up 
 				Walking the dog
@@ -3251,7 +3251,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0630
 	Attendance-check	1000
 	
-	Self-development	3h00
+	Workout				3h00
 		Table tennis
 		Pushup, Pullup, Squat 5set 5reps
 
@@ -3275,7 +3275,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0800
 	Attendance-check	1400
 	
-	Self-development	3h00
+	Workout				3h00
 
 	Work 				8h
 		Android
@@ -3298,7 +3298,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0630
 	Attendance-check	1000
 	
-	Self-development	1h00
+	Workout				1h00
 		Run&Stretch			1h
 	
 	Work 				8h
@@ -3322,7 +3322,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0530
 	Attendance-check	0845
 	
-	Self-development	1h30
+	Workout				1h30
 		Run 				1h30
 	
 	Work 				9h30
@@ -3354,7 +3354,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0640
 	Attendance-check	0830
 	
-	Self-development	1h00
+	Workout				1h00
 		Run 				1h00
 	
 	Work 				12h
@@ -3383,7 +3383,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0700
 	Attendance-check	0845
 	
-	Self-development	0h30
+	Workout				0h30
 		Run 				0h30
 	
 	Work 				11h
@@ -3410,7 +3410,7 @@ Bigger, Leaner, Stronger! Yeah!
 	Wake-up 			0640
 	Attendance-check	0800
 	
-	Self-development	0h30
+	Workout				0h30
 		Walk 				0h30
 	
 	Work 				6h30
@@ -3433,7 +3433,8 @@ Bigger, Leaner, Stronger! Yeah!
 		Keyword essay		0h30
 		Writing essay 		1h30
 		N&A meeting			1h00
-		Server & Client		9h00
+		IoTSW essay			1h00
+		Server & Client		8h00
 			JSON String <-> JSON file
 			Parse JSON String <-> JSON file
 			Understand implementation problem about JSON-simple
@@ -3449,6 +3450,12 @@ Bigger, Leaner, Stronger! Yeah!
 *아쉬운점*
 	잠은 집에서 자자.. 집 나가면 개고생
 
+	개발 측면
+		- RoomDB 예제에 JSON적용하려는데 뜻대로 잘 안됨
+			-> 서버에서 String보다 더 긴 길이의 데이터를 받아오는게 쉽지 않음
+			-> OkHttp에서 리스폰스로 파일 받기가 라이브러리 간 충돌 문제로 잘 안됨 (JUnit vs JSON-simple)
+
+
 *배운것*
 	카페인 섭취를 줄이자. 카페인은 부스터일뿐, 부스터를 매일 먹으면 나중에 부스터가 필요할 때 효과를 못본다.
 
@@ -3463,17 +3470,41 @@ Bigger, Leaner, Stronger! Yeah!
 220523 Mon
 	Wake-up 			0630
 	Attendance-check	0900
-	
+
+	Workout				0h30
+		Jogging 				0h30
+		
+	Work 				8h
+		Planning			0h30
+		Keyword essay		0h30
+		N&A meeting			1h00
+		Comm group			1h00
+		Server & Client		5h00
+			Add Converters.java which allows type be converted between gson, DAO, ,,,
+--------------------------------------------
+
+*오늘의주요문제*
+	집에서 안나가니 게을러짐. 내일은 나가자!!!
+
+
+
+------------------------------------------------------------
+
+220524 Tue
+	Wake-up 			0540
+	Attendance-check	0820
+
+	Workout				0h30
+		Jogging 				0h30
+		
 	Work 				h
 		Planning			0h30
 		Keyword essay		0h30
-		N&A meeting			h0
+		Lec. N&A PT			2h30
+		Discussion group	1h00
 		Server & Client		h00
 			
-			
 --------------------------------------------
-
-
 
 *오늘의주요문제*
 
