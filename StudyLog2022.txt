@@ -3461,18 +3461,15 @@ Bigger, Leaner, Stronger! Yeah!
 ------------------------------------------------------------
 
 220523 Mon
-	Wake-up 			0
-	Attendance-check	0
+	Wake-up 			0630
+	Attendance-check	0900
 	
 	Work 				h
 		Planning			0h30
 		Keyword essay		0h30
-		N&A meeting			1h00
-		Server & Client		9h00
-			JSON String <-> JSON file
-			Parse JSON String <-> JSON file
-			Understand implementation problem about JSON-simple
-		
+		N&A meeting			h0
+		Server & Client		h00
+			
 			
 --------------------------------------------
 
