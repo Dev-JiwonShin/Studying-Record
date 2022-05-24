@@ -3497,15 +3497,39 @@ Bigger, Leaner, Stronger! Yeah!
 	Workout				0h30
 		Jogging 				0h30
 		
-	Work 				h
+	Work 				9h10
 		Planning			0h30
 		Keyword essay		0h30
 		Lec. N&A PT			2h30
-		Discussion group	1h00
-		Server & Client		h00
-			
+		Server & Client		5h40
+			Understand & Refactor Converters.java, Rest of The App
+
 --------------------------------------------
 
+*오늘의주요문제*
+	수면 부족으로 피곤함. 오늘은 간만에 일찍 자볼 생각. 
+
+
+
+------------------------------------------------------------
+
+220525 Wed
+	Wake-up 			0540 (Good!)
+	Attendance-check	0730
+
+	Workout				0h30
+		Jogging 				0h30
+		
+	Work 				h0
+		Planning			0h30
+		Keyword essay		0h30
+		Server & Client		h
+
+
+--------------------------------------------
+
+Today I Learned
+ 
 *오늘의주요문제*
 
 
