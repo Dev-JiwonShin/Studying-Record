@@ -3514,11 +3514,48 @@ Bigger, Leaner, Stronger! Yeah!
 ------------------------------------------------------------
 
 220525 Wed
-	Wake-up 			0540 (Good!)
-	Attendance-check	0730
+	Wake-up 			0540 (Good quality)
+	Attendance-check	0800
 
 	Workout				0h30
-		Jogging 				0h30
+		Jogging 			0h30
+		
+	Work 				9h30
+		Planning			0h30
+		Keyword essay		1h00
+		Server & Client		6h00
+			Analyse where the problem is in the Room example
+			Study How to use @Embedded & @Relation
+		QnA					1h00
+		Reading book		1h00
+
+--------------------------------------------
+
+Today I Learned
+ 
+*오늘의주요문제*
+	낮잠을 너무 깊게 자버린 것
+
+*오늘의굿짭*
+	공식문서를 물고 늘어져서 어떻게 풀지 방법을 안 것
+
+*감사함* 
+	감사함이 세로토닌을 분비해준다는 사실을 안 것
+	건강한 것
+
+
+
+
+
+
+------------------------------------------------------------
+
+220526 Thu
+	Wake-up 			0430 (So-so)
+	Attendance-check	0715
+
+	Workout				0h15
+		Jogging 				0h15
 		
 	Work 				h0
 		Planning			0h30
