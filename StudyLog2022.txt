@@ -3555,20 +3555,82 @@ Today I Learned
 	Attendance-check	0715
 
 	Workout				0h15
-		Jogging 				0h15
+		Jogging 			0h15
 		
-	Work 				h0
+	Work 				9h00
 		Planning			0h30
 		Keyword essay		0h30
-		Server & Client		h
+		Server & Client		5h
+			@Embedded & @Relation
+				1vs1, 1vsN, NvsM
+		TeamNova. App1		3h00
+------------------------------------------------------------
 
+Today I Learned
+
+*오늘의굿짭*
+	저번 피드백을 반영하여 두괄식으로 '발표할 게 없습니다.'하고 끝낸 것.
+
+*아쉬운점*
+	Room을 시작할 때, 앞 기수들은 로컬DB로 뭘 선택했었는지 '묻기만'하고 끝냈던 것.
+	그때 대답으로 'Room을 안써봐서 그건 잘 모르겠다'를 듣고 '왜 안썼을까'까지 진행한 후 SQLite 예제도 한 번 해봤으면 좋았을듯.
+
+*배운것*
+	앞으로는 공식문서라도 의심해보자. 삼성이 모니터 설명 문서에 '갤럭시 폰이랑 연동하면 짱이에요'라는 말을 말 그대로 받아들이지 않으면서 구글이 하는 말은 곧이 곧대로 들은게 놓쳤던 점이다.
+
+
+------------------------------------------------------------
+
+220527 Fri
+	Wake-up 			0700 (So-so)
+	Attendance-check	0845
+
+	Workout				0h45
+		Jogging 			0h45
+		
+	Work 				13h00
+		Planning			0h30
+		Keyword essay		0h30
+		Havruta				1h00
+		QnA (3 times) 		1h00
+		Server & Client		7h
+		Meeting(문준혁)		3h
 
 --------------------------------------------
 
 Today I Learned
  
 *오늘의주요문제*
+	계획에 없던 미팅을 승낙한 것. 거절할 수 없는 상황이긴 했으나 그에 대비가 안되어있던게 문제다. 잘 생각해보면 미리 대처할 수 있었던 문제였다. 가능성 있어 보이는 일을 모두 계획에 올려두긴 할것.
 
+*오늘의굿짭*
+	질문 3번 간 것
+	대충하지 않으려 애쓴 것
+
+
+*아쉬운점*
+	단어들을 더 적극적으로 찾지 못했음
+
+------------------------------------------------------------
+
+220528 Sat
+	Wake-up 			0700(Bad, 새벽에 자주 깸)
+	Attendance-check	1030
+
+	Workout				1??h
+		Hiking			??	
+		
+	Work 				h00
+		Planning			0h30
+		Keyword essay		0h30
+		Server & Client		h
+
+--------------------------------------------
+
+Today I Learned
+ 
+*오늘의주요문제*
+	
 
 *오늘의굿짭*
 
